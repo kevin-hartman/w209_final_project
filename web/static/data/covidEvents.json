@@ -1,0 +1,4299 @@
+[
+    {
+        "country": "Global",
+        "date": "12/01/2019",
+        "description": "The earliest date of symptom onset, according to a study in the journal Lancet."
+    },
+    {
+        "country": "China",
+        "date": "12/08/2019",
+        "description": "A patient in the city of Wuhan sought medical help for pneumonia-like symptoms."
+    },
+    {
+        "country": "China",
+        "date": "12/29/2019",
+        "description": "Local hospitals in Hubei report the first four cases of a “pneumonia of unknown etiology.”"
+    },
+    {
+        "country": "China",
+        "date": "12/31/2019",
+        "description": "Wuhan Municipal Health Authorities report a string of pneumonia-like cases in Wuhan, China."
+    },
+    {
+        "country": "China",
+        "date": "01/01/2020",
+        "description": "The seafood market (Huanan Seafood Wholesale Market) that was identified as a suspected center of the outbreak is closed."
+    },
+    {
+        "country": "China",
+        "date": "01/03/2020",
+        "description": "China officially notifies the WHO of an outbreak."
+    },
+    {
+        "country": "Thailand",
+        "date": "01/13/2020",
+        "description": "Thailand reports its first case, a sixty-one year old woman who did not visit the seafood market."
+    },
+    {
+        "country": "China",
+        "date": "01/14/2020",
+        "description": "Wuhan implements screening measures for travelers leaving the city at airports, railway stations, and other passenger terminals."
+    },
+    {
+        "country": "Japan",
+        "date": "01/16/2020",
+        "description": "Japan reports its first case, a man in his mid-thirties who did not visit the seafood market."
+    },
+    {
+        "country": "Thailand",
+        "date": "01/17/2020",
+        "description": "Thailand reports its second case, a seventy-four-year-old woman."
+    },
+    {
+        "country": "China",
+        "date": "01/17/2020",
+        "description": "A second man, aged sixty-nine, dies in Wuhan."
+    },
+    {
+        "country": "China",
+        "date": "01/18/2020",
+        "description": "A third person dies from the coronavirus."
+    },
+    {
+        "country": "China",
+        "date": "01/20/2020",
+        "description": "China’s CDC announces the coronavirus is categorized as a Class B infectious disease, but states that the agency is adopting Class A measures to prevent and control the virus."
+    },
+    {
+        "country": "China",
+        "date": "01/20/2020",
+        "description": "China confirms fourth death, an eighty-nine-year-old man."
+    },
+    {
+        "country": "South Korea",
+        "date": "01/20/2020",
+        "description": "South Korea confirms its first case."
+    },
+    {
+        "country": "China",
+        "date": "01/20/2020",
+        "description": "Chinese state TV confirms the human-to-human transmission of the disease."
+    },
+    {
+        "country": "United States",
+        "date": "01/21/2020",
+        "description": "United States confirms its first case in Washington state, a man who traveled to the Wuhan area."
+    },
+    {
+        "country": "China",
+        "date": "01/21/2020",
+        "description": "China confirms two additional deaths, a sixty-six-year-old man and a forty-eight-year-old woman."
+    },
+    {
+        "country": "China",
+        "date": "01/21/2020",
+        "description": "New cases are announced in China, including in Beijing, Shenzhen, and Shanghai."
+    },
+    {
+        "country": "China",
+        "date": "01/21/2020",
+        "description": "Chinese state media raises number of confirmed cases to 291 and confirms 15 medical workers in Wuhan have been diagnosed with pneumonia."
+    },
+    {
+        "country": "Hong Kong",
+        "date": "01/21/2020",
+        "description": "Hong Kong confirms its first case, a person in their thirties."
+    },
+    {
+        "country": "Taiwan",
+        "date": "01/21/2020",
+        "description": "Taiwan confirms its first case, a woman in her fifties."
+    },
+    {
+        "country": "North Korea",
+        "date": "01/22/2020",
+        "description": "North Korea closes its borders to all foreign tourists to prevent the spread of the coronavirus."
+    },
+    {
+        "country": "China",
+        "date": "01/22/2020",
+        "description": "Chinese officials confirm the virus may mutate."
+    },
+    {
+        "country": "China",
+        "date": "01/22/2020",
+        "description": "Chinese CDC confirms a total of 440 cases in mainland China and 9 deaths."
+    },
+    {
+        "country": "Macau",
+        "date": "01/22/2020",
+        "description": "Macau confirms its first case."
+    },
+    {
+        "country": "Global",
+        "date": "01/22/2020",
+        "description": "WHO meets to discuss whether to declare the outbreak an international health emergency."
+    },
+    {
+        "country": "China",
+        "date": "01/23/2020",
+        "description": "Chinese CDC confirms 571 cases in mainland China and 17 deaths."
+    },
+    {
+        "country": "China",
+        "date": "01/23/2020",
+        "description": "China extends travel restrictions or quarantines to five cities."
+    },
+    {
+        "country": "Global",
+        "date": "01/23/2020",
+        "description": "WHO meets to discuss whether to declare the outbreak an international health emergency."
+    },
+    {
+        "country": "Singapore",
+        "date": "01/23/2020",
+        "description": "Singapore confirms its first case."
+    },
+    {
+        "country": "China",
+        "date": "01/24/2020",
+        "description": "Chinese CDC confirms 830 cases in mainland China and 25 deaths, with the first death occurring outside of Hubei province in Hebei."
+    },
+    {
+        "country": "China",
+        "date": "01/24/2020",
+        "description": "The Chinese province of Heilongjiang confirms an additional death, raising the death count to 26."
+    },
+    {
+        "country": "Nepal",
+        "date": "01/24/2020",
+        "description": "Nepal confirms its first case."
+    },
+    {
+        "country": "Vietnam",
+        "date": "01/24/2020",
+        "description": "Vietnam confirms its first case."
+    },
+    {
+        "country": "France",
+        "date": "01/24/2020",
+        "description": "France confirms its first and second cases."
+    },
+    {
+        "country": "United States",
+        "date": "01/24/2020",
+        "description": "The United States confirms its second case, a woman in her sixties in Chicago."
+    },
+    {
+        "country": "Malaysia",
+        "date": "01/24/2020",
+        "description": "Malaysia confirms its first case."
+    },
+    {
+        "country": "China",
+        "date": "01/24/2020",
+        "description": "China extends travel restrictions or quarantines to twelve cities."
+    },
+    {
+        "country": "China",
+        "date": "01/24/2020",
+        "description": "Wuhan construction crews are working on two hospitals to treat patients of the outbreak; the first is to be completed on February 3 and the second in early February."
+    },
+    {
+        "country": "Australia",
+        "date": "01/25/2020",
+        "description": "Australia confirms its first case."
+    },
+    {
+        "country": "Canada",
+        "date": "01/25/2020",
+        "description": "Canada confirms its first case."
+    },
+    {
+        "country": "United States",
+        "date": "01/25/2020",
+        "description": "United States confirms its third case, a man in his fifties in Orange County, California."
+    },
+    {
+        "country": "China",
+        "date": "01/25/2020",
+        "description": "First medical professional who had treated people with the coronavirus dies from the virus."
+    },
+    {
+        "country": "China",
+        "date": "01/26/2020",
+        "description": "China bans the trade of wild animals throughout the country, including in markets and online."
+    },
+    {
+        "country": "United States",
+        "date": "01/26/2020",
+        "description": "United States confirms fourth and fifth cases in Los Angeles and Arizona."
+    },
+    {
+        "country": "China",
+        "date": "01/27/2020",
+        "description": "Wuhan suspends customs entry and exit services in the city until Thursday."
+    },
+    {
+        "country": "Cambodia",
+        "date": "01/27/2020",
+        "description": "Cambodia confirms its first case."
+    },
+    {
+        "country": "Sri Lanka",
+        "date": "01/27/2020",
+        "description": "Sri Lanka confirms its first case."
+    },
+    {
+        "country": "Germany",
+        "date": "01/27/2020",
+        "description": "Germany confirms its first case."
+    },
+    {
+        "country": "China",
+        "date": "01/27/2020",
+        "description": "Wuhan mayor offers to resign."
+    },
+    {
+        "country": "United States",
+        "date": "01/27/2020",
+        "description": "United States extends screening to twenty airports."
+    },
+    {
+        "country": "China",
+        "date": "01/28/2020",
+        "description": "China announces it will admit a WHO team of experts to aid with research and response."
+    },
+    {
+        "country": "Hong Kong,Mongolia",
+        "date": "01/28/2020",
+        "description": "Hong Kong and Mongolia announce partial closures of their borders with mainland China."
+    },
+    {
+        "country": "Japan,United States",
+        "date": "01/28/2020",
+        "description": "Japan and the United States evacuate their nationals from Wuhan."
+    },
+    {
+        "country": "United States,China",
+        "date": "01/28/2020",
+        "description": "United Airlines suspends all flights to China from the United States."
+    },
+    {
+        "country": "United Arab Emirates",
+        "date": "01/29/2020",
+        "description": "United Arab Emirates confirms its first case."
+    },
+    {
+        "country": "Finland",
+        "date": "01/29/2020",
+        "description": "Finland confirms its first case."
+    },
+    {
+        "country": "China",
+        "date": "01/29/2020",
+        "description": "Several airlines in North America, Europe, and Asia suspend flights to China."
+    },
+    {
+        "country": "China,Germany",
+        "date": "01/29/2020",
+        "description": "A new study in the New England Journal of Medicine finds evidence of human-to-human transmission as early as mid-December in Wuhan. Germany’s public health agency refutes information a week later."
+    },
+    {
+        "country": "United States,Japan,China",
+        "date": "01/29/2020",
+        "description": "The United States and Japan are the first countries to evacuate citizens from Wuhan."
+    },
+    {
+        "country": "India",
+        "date": "01/30/2020",
+        "description": "India confirms first first case."
+    },
+    {
+        "country": "Philippines",
+        "date": "01/30/2020",
+        "description": "The Philippines confirms its first case."
+    },
+    {
+        "country": "United States",
+        "date": "01/30/2020",
+        "description": "The United States confirms its sixth case, the first person-to-person transmission of the coronavirus in the country."
+    },
+    {
+        "country": "Global",
+        "date": "01/30/2020",
+        "description": "The WHO declares the coronavirus outbreak as a Public Health Emergency of International Concern (PHEIC)."
+    },
+    {
+        "country": "Germany",
+        "date": "01/30/2020",
+        "description": "Germany finds evidence of asymptomatic transmission of the coronavirus."
+    },
+    {
+        "country": "United States,China",
+        "date": "01/30/2020",
+        "description": "The United States issues a Level 4 travel advisory for all of China."
+    },
+    {
+        "country": "China,Russia",
+        "date": "01/30/2020",
+        "description": "Russia closes its border with China."
+    },
+    {
+        "country": "Russia",
+        "date": "01/31/2020",
+        "description": "Russia confirms its first case."
+    },
+    {
+        "country": "Italy",
+        "date": "01/31/2020",
+        "description": "Italy confirms its first case."
+    },
+    {
+        "country": "United Kingdom",
+        "date": "01/31/2020",
+        "description": "United Kingdom confirms its first case."
+    },
+    {
+        "country": "Singapore,China",
+        "date": "01/31/2020",
+        "description": "Singapore announces sweeping ban on Chinese visitors and all those who had visited China within the past fourteen days."
+    },
+    {
+        "country": "Russia,China,Mongolia",
+        "date": "01/31/2020",
+        "description": "Mongolia closes its border with China."
+    },
+    {
+        "country": "United States",
+        "date": "02/01/2020",
+        "description": "United States confirms its eighth case."
+    },
+    {
+        "country": "Philippines,China",
+        "date": "02/01/2020",
+        "description": "The Philippines reports the first death outside of mainland China."
+    },
+    {
+        "country": "China",
+        "date": "02/01/2020",
+        "description": "China’s Ministry of Agriculture reports another disease outbreak: a new bird flu."
+    },
+    {
+        "country": "China",
+        "date": "02/01/2020",
+        "description": "Wenzhou becomes the first city outside of Hubei province to  implement “special measures” to restrict travel, businesses, and public gatherings."
+    },
+    {
+        "country": "United States",
+        "date": "02/02/2020",
+        "description": "United States confirms its ninth, tenth, and eleventh cases."
+    },
+    {
+        "country": "China",
+        "date": "02/02/2020",
+        "description": "Construction on a new hospital in Wuhan is completed within ten days."
+    },
+    {
+        "country": "China",
+        "date": "02/02/2020",
+        "description": "Wuhan tightens quarantine efforts, targeting anyone who has had close contact with confirmed carriers of the virus and people with pneumonia-like symptoms."
+    },
+    {
+        "country": "China",
+        "date": "02/03/2020",
+        "description": "Chinese stock markets plunge on the first trading day after the Lunar New Year.        "
+    },
+    {
+        "country": "United States",
+        "date": "02/03/2020",
+        "description": "The first U.S. coronavirus patient is discharged from the hospital."
+    },
+    {
+        "country": "Global",
+        "date": "02/03/2020",
+        "description": "Ministries of health from G7 countries agree to coordinate their responses to the outbreak."
+    },
+    {
+        "country": "Germany",
+        "date": "02/03/2020",
+        "description": "Germany’s public health agency refutes information in an earlier study that supposedly proved asymptomatic transmission of the coronavirus in Germany."
+    },
+    {
+        "country": "Belgium",
+        "date": "02/04/2020",
+        "description": "Belgium confirms its first case."
+    },
+    {
+        "country": "Hong Kong",
+        "date": "02/04/2020",
+        "description": "Hong Kong reports the second death outside of mainland China."
+    },
+    {
+        "country": "Taiwan,China",
+        "date": "02/04/2020",
+        "description": "Taiwan announces ban on foreign nationals who have been to China in past fourteen days."
+    },
+    {
+        "country": "United Kingdom,France,China",
+        "date": "02/04/2020",
+        "description": "United Kingdom and France advise against all but essential travel to mainland China."
+    },
+    {
+        "country": "United States",
+        "date": "02/04/2020",
+        "description": "The U.S. Food and Drug Administration issues an emergency use authorization for CDC’s diagnostic test."
+    },
+    {
+        "country": "United States",
+        "date": "02/04/2020",
+        "description": "President Trump pledges to safeguard Americans from the coronavirus in his State of the Union address."
+    },
+    {
+        "country": "United States,China",
+        "date": "02/05/2020",
+        "description": "The United States completes a second round of evacuations from Wuhan."
+    },
+    {
+        "country": "United States",
+        "date": "02/05/2020",
+        "description": "The United States confirms its twelfth case."
+    },
+    {
+        "country": "Hong Kong,China",
+        "date": "02/05/2020",
+        "description": "Hong Kong announces mandatory two-week quarantine for anyone arriving from mainland China and has suspended ten out of thirteen boarder crossing with mainland China."
+    },
+    {
+        "country": "Japan",
+        "date": "02/05/2020",
+        "description": "Japan confirms ten cases of the coronavirus on a cruise ship with nearly 4,000 passengers and crew and announces the ship will be quarantined for two weeks."
+    },
+    {
+        "country": "China,United States",
+        "date": "02/05/2020",
+        "description": "CDC announces several planes carrying passengers from Wuhan, China, will arrive in California, Texas, and Nebraska."
+    },
+    {
+        "country": "United States",
+        "date": "02/05/2020",
+        "description": "CDC begins shipping diagnostic test kits to more than a hundred labs in the United States."
+    },
+    {
+        "country": "Global",
+        "date": "02/05/2020",
+        "description": "WHO launches a $675 million preparedness and response plan for February through April 2020 to prevent the further spread of the coronavirus and protect states with weaker health systems."
+    },
+    {
+        "country": "China",
+        "date": "02/05/2020",
+        "description": "An infant tests positive for the coronavirus just thirty hours after birth, raising concerns of vertical transmission."
+    },
+    {
+        "country": "United States,China",
+        "date": "02/05/2020",
+        "description": "U.S. Peace Corps evacuates all volunteers out of China."
+    },
+    {
+        "country": "United States",
+        "date": "02/06/2020",
+        "description": "An American citizen with the coronavirus dies in Wuhan, becoming the first known American death from the outbreak."
+    },
+    {
+        "country": "Japan",
+        "date": "02/06/2020",
+        "description": "Japan confirms an additional ten cases of the coronavirus on the cruise ship."
+    },
+    {
+        "country": "Taiwan,Macau,Hong Kong",
+        "date": "02/06/2020",
+        "description": "Taiwan extends its travel advisory to those coming from Macau and Hong Kong."
+    },
+    {
+        "country": "Russia,Saudi Arabia",
+        "date": "02/06/2020",
+        "description": "Russia rejects a Saudi-led effort to deepen OPEC’s oil production cuts in response to the coronavirus."
+    },
+    {
+        "country": "China",
+        "date": "02/06/2020",
+        "description": "Chinese authorities order Wuhan officials to carry out house-to-house searches and house all infected individuals in quarantine centers."
+    },
+    {
+        "country": "Global",
+        "date": "02/06/2020",
+        "description": "WHO convenes global research and innovation forum to accelerate research and action on the coronavirus."
+    },
+    {
+        "country": "China",
+        "date": "02/07/2020",
+        "description": "Li Wenliang, one of the eight whistleblower doctors in Wuhan, dies from the coronavirus."
+    },
+    {
+        "country": "China",
+        "date": "02/07/2020",
+        "description": "Chinese social media is flooded with grief and anger over the passing of Li Wenliang."
+    },
+    {
+        "country": "United States,China",
+        "date": "02/07/2020",
+        "description": "Donald Trump and Xi Jinping speak about the coronavirus, with Trump praising China’s efforts and pledging support."
+    },
+    {
+        "country": "Japan",
+        "date": "02/07/2020",
+        "description": "Japan confirms an additional twenty-one cases aboard the cruise ship, including the first person from Latin America to be infected with the coronavirus."
+    },
+    {
+        "country": "Singapore",
+        "date": "02/07/2020",
+        "description": "Singapore raises its virus alert to orange (the same level given to SARS and H1N1), sparking panicked purchases of essentials across the island."
+    },
+    {
+        "country": "United States,China",
+        "date": "02/07/2020",
+        "description": "The United States pledges $100 million USD to assisting China and other countries fight the coronavirus."
+    },
+    {
+        "country": "China",
+        "date": "02/08/2020",
+        "description": "WHO announces a team of experts has been assembled, and they are intended to arrive in China within a week."
+    },
+    {
+        "country": "China",
+        "date": "02/08/2020",
+        "description": "Xi Jinping visits hospitals and treatment centers in Beijing."
+    },
+    {
+        "country": "China",
+        "date": "02/08/2020",
+        "description": "Wuhan opens a second new hospital to fight the coronavirus."
+    },
+    {
+        "country": "China",
+        "date": "02/08/2020",
+        "description": "China’s National Health Commission gives the coronavirus a temporary name, Novel Coronavirus Pneumonia or NCP."
+    },
+    {
+        "country": "Japan,China",
+        "date": "02/08/2020",
+        "description": "Japan confirms a Japanese citizen died in Wuhan from the coronavirus."
+    },
+    {
+        "country": "Global",
+        "date": "02/09/2020",
+        "description": "The death toll from the novel coronavirus surpasses the toll from the SARS epidemic of 2002-3."
+    },
+    {
+        "country": "China",
+        "date": "02/09/2020",
+        "description": "China allocates more than $10 billion USD to fight the coronavirus."
+    },
+    {
+        "country": "China,United States",
+        "date": "02/09/2020",
+        "description": "The Chinese Ambassador to the United States Cui Tiankai addresses rumors about the origin of the coronavirus on U.S. television."
+    },
+    {
+        "country": "China",
+        "date": "02/09/2020",
+        "description": "An advance team for the WHO-led 2019-nCoV international expert mission departs for China."
+    },
+    {
+        "country": "United States",
+        "date": "02/10/2020",
+        "description": "The United States confirms its thirteenth case."
+    },
+    {
+        "country": "Japan",
+        "date": "02/10/2020",
+        "description": "Japan confirms an additional sixty-five people aboard the Diamond Princess are infected with the coronavirus, raising the total to 135."
+    },
+    {
+        "country": "United Kingdom",
+        "date": "02/10/2020",
+        "description": "The United Kingdom declares that the coronavirus constitutes a serious and imminent threat to public health."
+    },
+    {
+        "country": "China",
+        "date": "02/10/2020",
+        "description": "Some Chinese citizens return to work, but many major companies have asked employees to stay home."
+    },
+    {
+        "country": "United States",
+        "date": "02/10/2020",
+        "description": "The Trump administration releases a budget proposal for FY21 that would sharply cut funding for WHO and global health funding."
+    },
+    {
+        "country": "China",
+        "date": "02/10/2020",
+        "description": "An advance team of WHO experts lands in China."
+    },
+    {
+        "country": "Russia,China",
+        "date": "02/10/2020",
+        "description": "Russia quarantines a Chinese diplomat as a supposed safety precaution."
+    },
+    {
+        "country": "Global",
+        "date": "02/11/2020",
+        "description": "The death toll for the coronavirus surpasses 1,000."
+    },
+    {
+        "country": "China",
+        "date": "02/11/2020",
+        "description": "Two senior Hubei provincial health commission officials are removed from their posts."
+    },
+    {
+        "country": "Thailand",
+        "date": "02/11/2020",
+        "description": "Thailand denies the cruise ship MS Westerdam from docking in its ports. The ship has already been denied entry in Guam, Japan, the Philippines, and Taiwan."
+    },
+    {
+        "country": "Global",
+        "date": "02/11/2020",
+        "description": "WHO hosts the first of a two-day global research and innovation forum on the coronavirus."
+    },
+    {
+        "country": "China,United States",
+        "date": "02/11/2020",
+        "description": "The first group of Americans evacuated from Wuhan are released from quarantine."
+    },
+    {
+        "country": "Global",
+        "date": "02/11/2020",
+        "description": "WHO names the disease COVID-19, short for “coronavirus disease 2019.”"
+    },
+    {
+        "country": "United States",
+        "date": "02/12/2020",
+        "description": "United States confirms fourteenth case."
+    },
+    {
+        "country": "United States",
+        "date": "02/12/2020",
+        "description": "Some U.S. states find testing kits distributed by CDC deliver “inconclusive” results"
+    },
+    {
+        "country": "Japan",
+        "date": "02/12/2020",
+        "description": "Japan confirms an additional thirty-nine cases aboard Diamond Princess cruise ship, raising the total to 174."
+    },
+    {
+        "country": "Cambodia",
+        "date": "02/12/2020",
+        "description": "Cambodia agrees to let the cruise ship MS Westerdam dock and disembark."
+    },
+    {
+        "country": "China",
+        "date": "02/12/2020",
+        "description": "Guangzhou and Shenzhen are given the power to requisition private property to fight the coronavirus."
+    },
+    {
+        "country": "Global",
+        "date": "02/12/2020",
+        "description": "WHO hosts the second of a two-day global research and innovation forum on the coronavirus."
+    },
+    {
+        "country": "United States",
+        "date": "02/13/2020",
+        "description": "U.S. CDC Director says that the coronavirus will likely become a community virus and remain beyond this season."
+    },
+    {
+        "country": "United States",
+        "date": "02/13/2020",
+        "description": "United States confirms fifteen case of the coronavirus."
+    },
+    {
+        "country": "China",
+        "date": "02/13/2020",
+        "description": "Hubei’s reported cases increase almost tenfold and deaths more than double following a change in diagnostic criteria."
+    },
+    {
+        "country": "Global",
+        "date": "02/13/2020",
+        "description": "EU health ministers convene in Brussels for an emergency health meeting on how to prevent COVID-19 from spreading in Europe."
+    },
+    {
+        "country": "Cambodia",
+        "date": "02/13/2020",
+        "description": "Cambodia allows the MS Westerdam cruise ship to dock."
+    },
+    {
+        "country": "China",
+        "date": "02/13/2020",
+        "description": "China dismisses top party officials in Hubei province."
+    },
+    {
+        "country": "Japan",
+        "date": "02/13/2020",
+        "description": "Japan confirms an additional forty-four cases aboard Diamond Princess cruise ship, raising the total to 218."
+    },
+    {
+        "country": "Japan",
+        "date": "02/13/2020",
+        "description": "Japan reports the third death outside of mainland China."
+    },
+    {
+        "country": "Vietnam",
+        "date": "02/13/2020",
+        "description": "Vietnam quarantines a community of ten-thousand people near Hanoi."
+    },
+    {
+        "country": "China",
+        "date": "02/14/2020",
+        "description": "Hubei revises numbers released on February 13, due to double counting."
+    },
+    {
+        "country": "Egypt",
+        "date": "02/14/2020",
+        "description": "Egypt confirms first case, the first case confirmed on the African continent."
+    },
+    {
+        "country": "China",
+        "date": "02/14/2020",
+        "description": "Beijing announced that everyone returning to the city would be required to isolate themselves for fourteen days."
+    },
+    {
+        "country": "Singapore",
+        "date": "02/14/2020",
+        "description": "Singapore's Prime Minister warns that the coronavirus might lead to a recession."
+    },
+    {
+        "country": "Cambodia",
+        "date": "02/14/2020",
+        "description": "Passengers and crew aboard the MS Westerdam disembark in Cambodia."
+    },
+    {
+        "country": "Japan",
+        "date": "02/14/2020",
+        "description": "Confirmed virus-free passengers and passengers aged over eighty-years-old who test negative for the virus are allowed to disembark from the Princess Diamond cruise ship."
+    },
+    {
+        "country": "China",
+        "date": "02/14/2020",
+        "description": "China announces that more than 1,700 health workers in mainland China have become infected."
+    },
+    {
+        "country": "France",
+        "date": "02/15/2020",
+        "description": "France reports the fourth death outside of mainland China."
+    },
+    {
+        "country": "Global",
+        "date": "02/15/2020",
+        "description": "WHO Director General addresses the Munich Security Conference about COVID-19, warning that the pathogen has pandemic potential."
+    },
+    {
+        "country": "Japan",
+        "date": "02/15/2020",
+        "description": "Japan confirms an additional sixty-seven cases aboard the Diamond Princess cruise ship, raising the total to 285."
+    },
+    {
+        "country": "China",
+        "date": "02/15/2020",
+        "description": "Lockdowns and travel restrictions extend to more than 760 million people in China."
+    },
+    {
+        "country": "China",
+        "date": "02/15/2020",
+        "description": "The Guangzhou branch of China’s central bank, the People’s Bank of China, announces that all used banknotes from hospitals, wet markets, and buses will be destroyed to combat COVID-19."
+    },
+    {
+        "country": "United States,Malaysia,Cambodia",
+        "date": "02/15/2020",
+        "description": "An American passenger from the MS Westerdam tests positive for COVID-19 in Malaysia after passengers had disembarked from the cruise ship in Cambodia."
+    },
+    {
+        "country": "United States,Japan",
+        "date": "02/15/2020",
+        "description": "The United States announces plans to evacuate nearly four hundred Americans quarantined on the Diamond Princess cruise ship; passengers who test positive for COVID-19 will be treated in Japan."
+    },
+    {
+        "country": "Taiwan",
+        "date": "02/16/2020",
+        "description": "Taiwan reports the fifth death outside of mainland China."
+    },
+    {
+        "country": "Japan",
+        "date": "02/16/2020",
+        "description": "Japan warns that it has entered a “new phase” of the COVID-19 outbreak."
+    },
+    {
+        "country": "Japan",
+        "date": "02/16/2020",
+        "description": "Japan confirms an additional seventy cases aboard the Diamond Princess cruise ship, raising the total to 355."
+    },
+    {
+        "country": "China",
+        "date": "02/16/2020",
+        "description": "The WHO-led expert team arrives in Beijing."
+    },
+    {
+        "country": "Global",
+        "date": "02/17/2020",
+        "description": "WHO announces it will report all confirmed cases, including both laboratory-confirmed cases and clinically diagnosed cases."
+    },
+    {
+        "country": "United States",
+        "date": "02/17/2020",
+        "description": "Apple warns investors that the company does not expect to meet the revenue guidance for the upcoming March quarter due to the impact of the COVID-19."
+    },
+    {
+        "country": "China",
+        "date": "02/17/2020",
+        "description": "Chinese state media reports that China’s annual parliamentary meeting, originally scheduled for early March, will likely be delayed."
+    },
+    {
+        "country": "Hong Kong",
+        "date": "02/17/2020",
+        "description": "Armed robbers in Hong Kong steal HK$1,600 worth of toilet paper as COVID-19 has sparked panicked-buying of essential goods in Hong Kong."
+    },
+    {
+        "country": "Japan",
+        "date": "02/17/2020",
+        "description": "Japan confirms an additional ninety-nine cases aboard the Diamond Princess cruise ship, raising the total to 454."
+    },
+    {
+        "country": "United States",
+        "date": "02/17/2020",
+        "description": "Evacuated U.S. passengers from the cruise ship Diamond Princess arrive in the United States, including fourteen with confirmed infections."
+    },
+    {
+        "country": "Japan",
+        "date": "02/18/2020",
+        "description": "Japan confirms an additional eighty-eight cases aboard the Diamond Princess cruise ship, raising the total to 542."
+    },
+    {
+        "country": "Russia,China",
+        "date": "02/18/2020",
+        "description": "Russia bans all Chinese citizens from entering the country."
+    },
+    {
+        "country": "United States,China",
+        "date": "02/18/2020",
+        "description": "346 Americans evacuated from Wuhan complete their quarantine at two military bases in California."
+    },
+    {
+        "country": "United States",
+        "date": "02/18/2020",
+        "description": "U.S. CDC issues a statement on the Diamond Princess quarantine, preventing all passengers and crew of the ship from returning to the United States for at least fourteen days after leaving Diamond Princess."
+    },
+    {
+        "country": "China",
+        "date": "02/18/2020",
+        "description": "Liu Zhiming, director of the Wuchang hospital in Wuhan, China, dies from the COVID-19."
+    },
+    {
+        "country": "China",
+        "date": "02/18/2020",
+        "description": "Chinese state media announces that doctors and nurses who die while trying to contain the outbreak will be officially designated as “martyrs.”"
+    },
+    {
+        "country": "Global",
+        "date": "02/19/2020",
+        "description": "COVID-19 death toll surpasses 2,000."
+    },
+    {
+        "country": "Japan",
+        "date": "02/19/2020",
+        "description": "Japan confirms an additional seventy-nine cases aboard the Diamond Princess cruise ship, raising the total to 621."
+    },
+    {
+        "country": "Japan",
+        "date": "02/19/2020",
+        "description": "Passengers aboard the Princess Diamond begin to disembark from the ship."
+    },
+    {
+        "country": "South Korea",
+        "date": "02/19/2020",
+        "description": "South Korea reports twenty cases in one day, almost all of which are linked to one woman."
+    },
+    {
+        "country": "China",
+        "date": "02/19/2020",
+        "description": "China expels three Wall Street Journal reporters over an opinion piece that referred to China as “the real sick man of Asia.”"
+    },
+    {
+        "country": "Iran",
+        "date": "02/19/2020",
+        "description": "Iran confirms its first and second cases."
+    },
+    {
+        "country": "Iran",
+        "date": "02/19/2020",
+        "description": "Iran reports its first and second deaths from COVID-19; the individuals were the two cases announced earlier in the day."
+    },
+    {
+        "country": "Hong Kong",
+        "date": "02/19/2020",
+        "description": "Hong Kong reports its second death from COVID-19."
+    },
+    {
+        "country": "Cambodia",
+        "date": "02/19/2020",
+        "description": "Cambodia announces that the remaining passengers from the MS Westerdam still in the country tested negative for COVID-19."
+    },
+    {
+        "country": "Japan",
+        "date": "02/20/2020",
+        "description": "Japan reports two additional deaths, passengers from the Diamond Princess cruise ship."
+    },
+    {
+        "country": "Japan",
+        "date": "02/20/2020",
+        "description": "Japan confirms an additional thirteen cases aboard the Diamond Princess cruise ship, raising the total to 634."
+    },
+    {
+        "country": "Singapore",
+        "date": "02/20/2020",
+        "description": "Singapore confirms what is believed to be the first patient infected with both dengue and COVID-19."
+    },
+    {
+        "country": "South Korea",
+        "date": "02/20/2020",
+        "description": "South Korea reports its first death."
+    },
+    {
+        "country": "South Korea",
+        "date": "02/20/2020",
+        "description": "South Korea reports a doubling of COVID-19 cases in twenty-four hours."
+    },
+    {
+        "country": "South Korea",
+        "date": "02/20/2020",
+        "description": "The mayor of Daegu, South Korea asks residents in the city to remain inside following a steep increase in cases."
+    },
+    {
+        "country": "Iran",
+        "date": "02/20/2020",
+        "description": "Iran urges people to limit movements in the city of Qom, where there has been four confirmed cases of COVID-19."
+    },
+    {
+        "country": "Kuwait,Iran",
+        "date": "02/20/2020",
+        "description": "Kuwait suspends all flights of Kuwait Airways to Iran and advises citizens not to travel to Qom."
+    },
+    {
+        "country": "Iraq,Iran",
+        "date": "02/20/2020",
+        "description": "Iraq closes its border with Iran."
+    },
+    {
+        "country": "Canada,Iran",
+        "date": "02/20/2020",
+        "description": "A woman in British Colombia, Canada, tests positive for the coronavirus after returning from Iran."
+    },
+    {
+        "country": "China",
+        "date": "02/20/2020",
+        "description": "China’s National Health Commission again changes its classification system for cases in Hubei province. The new classification no longer includes clinically confirmed cases in data for confirmed cases of COVID-19."
+    },
+    {
+        "country": "South Korea",
+        "date": "02/21/2020",
+        "description": "South Korea reports its second death."
+    },
+    {
+        "country": "Iran",
+        "date": "02/21/2020",
+        "description": "Iran reports two additional deaths."
+    },
+    {
+        "country": "Italy",
+        "date": "02/21/2020",
+        "description": "Italy reports its first death."
+    },
+    {
+        "country": "Japan",
+        "date": "02/21/2020",
+        "description": "Japan suspends major public gatherings to counter the spread of COVID-19."
+    },
+    {
+        "country": "Lebanon,Iran",
+        "date": "02/21/2020",
+        "description": "Lebanon confirms its first case, a woman returning from the Iranian city of Qom."
+    },
+    {
+        "country": "Israel",
+        "date": "02/21/2020",
+        "description": "Israel confirms its first case."
+    },
+    {
+        "country": "Italy",
+        "date": "02/21/2020",
+        "description": "Italy closes public spaces in ten Italian towns after confirming sixteen cases in northern Italy in one day."
+    },
+    {
+        "country": "United States",
+        "date": "02/21/2020",
+        "description": "The United States confirms a total of thirty-four coronavirus cases, including passengers evacuated from the Diamond Princess."
+    },
+    {
+        "country": "United States",
+        "date": "02/21/2020",
+        "description": "The city of Costa Mesa, California, files a restraining order to prevent U.S. federal agencies from housing and quarantining people with COVID-19 at a nearby developmental center."
+    },
+    {
+        "country": "China",
+        "date": "02/21/2020",
+        "description": "Hubei party secretary Ying Yong orders all cases removed from official provincial tallies on Thursday due to change in classification mechanisms to be added back to the total tally."
+    },
+    {
+        "country": "China",
+        "date": "02/21/2020",
+        "description": "Shandong reports an outbreak in Rencheng prison of 200 confirmed cases."
+    },
+    {
+        "country": "Italy",
+        "date": "02/22/2020",
+        "description": "Italy reports its second death."
+    },
+    {
+        "country": "Iran",
+        "date": "02/22/2020",
+        "description": "Iran reports an additional two deaths, raising its total to six."
+    },
+    {
+        "country": "South Korea",
+        "date": "02/22/2020",
+        "description": "South Korea reports two additional deaths, raising its total to four. "
+    },
+    {
+        "country": "Israel,South Korea",
+        "date": "02/22/2020",
+        "description": "Israel refuses to permit 130 South Koreans to disembark from a flight from Seoul."
+    },
+    {
+        "country": "United States,Japan,South Korea",
+        "date": "02/22/2020",
+        "description": "U.S. CDC issues a Level 2 travel advisory for Japan and South Korea."
+    },
+    {
+        "country": "China",
+        "date": "02/22/2020",
+        "description": "WHO-led joint mission arrives in Wuhan, China."
+    },
+    {
+        "country": "United States,Japan,South Korea",
+        "date": "02/22/2020",
+        "description": "The U.S. Department of State issues Level 2 travel advisories (exercise increased caution) for Japan and South Korea."
+    },
+    {
+        "country": "Japan",
+        "date": "02/22/2020",
+        "description": "Japan apologizes for allowing twenty-three passengers to leave the Diamond Princess without being tested."
+    },
+    {
+        "country": "Iran",
+        "date": "02/23/2020",
+        "description": "Iran reports an additional two deaths, raising its total to eight."
+    },
+    {
+        "country": "Iran",
+        "date": "02/23/2020",
+        "description": "Iran shuts down schools, universities, and other educational centers in fourteen provinces, including in Qom and Tehran."
+    },
+    {
+        "country": "Israel",
+        "date": "02/23/2020",
+        "description": "Israel extends its entry ban to include Japan and South Korea."
+    },
+    {
+        "country": "South Korea",
+        "date": "02/23/2020",
+        "description": "South Korea reports two additional deaths, raising its total to six."
+    },
+    {
+        "country": "South Korea",
+        "date": "02/23/2020",
+        "description": "South Korea raises its alert level to “red,” the highest level available."
+    },
+    {
+        "country": "Japan",
+        "date": "02/23/2020",
+        "description": "The last passenger disembarks from the Diamond Princess cruise ship."
+    },
+    {
+        "country": "Japan",
+        "date": "02/23/2020",
+        "description": "Japan reports the third death from the Diamond Princess, but is unclear if the passenger had COVID-19."
+    },
+    {
+        "country": "Italy",
+        "date": "02/23/2020",
+        "description": "Italy reports its third death."
+    },
+    {
+        "country": "Italy",
+        "date": "02/23/2020",
+        "description": "Italy passes emergency measures throughout the country to prevent the spread of COVID-19. "
+    },
+    {
+        "country": "Iran,Afghanistan,Armenia,Turkey,Pakistan",
+        "date": "02/23/2020",
+        "description": "Afghanistan, Armenia, Turkey, and Pakistan close their borders with Iran."
+    },
+    {
+        "country": "Austria,Italy",
+        "date": "02/23/2020",
+        "description": "Austria halts trains from Italy temporarily over a COVID-19 scare."
+    },
+    {
+        "country": "Iran,Italy",
+        "date": "02/23/2020",
+        "description": "U.S. CDC issues Level 1 warnings for Iran and Italy."
+    },
+    {
+        "country": "Afghanistan,Iran",
+        "date": "02/24/2020",
+        "description": "Afghanistan confirms its first case, a traveler from Iran."
+    },
+    {
+        "country": "Bahrain,Iran",
+        "date": "02/24/2020",
+        "description": "Bahrain confirms its first case, a traveler from Iran."
+    },
+    {
+        "country": "Iraq,Iran",
+        "date": "02/24/2020",
+        "description": "Iraq confirms its first case, a student from Iran."
+    },
+    {
+        "country": "Kuwait,Iran",
+        "date": "02/24/2020",
+        "description": "Kuwait confirms its first cases, three travelers from Iran."
+    },
+    {
+        "country": "Oman,Iran",
+        "date": "02/24/2020",
+        "description": "Oman confirms its first cases, two travelers from Iran."
+    },
+    {
+        "country": "Italy",
+        "date": "02/24/2020",
+        "description": "Italy reports an additional four deaths, raising its total to seven."
+    },
+    {
+        "country": "China",
+        "date": "02/24/2020",
+        "description": "Stock markets plunge after significant increases in confirmed cases and deaths outside of China over the weekend."
+    },
+    {
+        "country": "China",
+        "date": "02/24/2020",
+        "description": "Chinese officials postpone the National People’s Congress, the most significant political event in China."
+    },
+    {
+        "country": "China,United States",
+        "date": "02/24/2020",
+        "description": "China warns its citizens against traveling to the United States, stating that Chinese tourists have faced unfair treatment in the country due to excessive prevention measures."
+    },
+    {
+        "country": "China",
+        "date": "02/24/2020",
+        "description": "Wuhan officials announce visitors trapped in the city may leave, but then promptly reverse the decision. "
+    },
+    {
+        "country": "United States",
+        "date": "02/24/2020",
+        "description": "The Trump administration sends a budget request to Congress for $2.5 billion to fight COVID-19."
+    },
+    {
+        "country": "Afghanistan,South Korea,Iran,Italy",
+        "date": "02/24/2020",
+        "description": "U.S. CDC issues a Level 3 travel warning for South Korea and Level 2 warnings for Iran and Italy."
+    },
+    {
+        "country": "Italy,Algeria",
+        "date": "02/25/2020",
+        "description": "Algeria confirms its first case, a traveler from Italy."
+    },
+    {
+        "country": "Italy,Austria",
+        "date": "02/25/2020",
+        "description": "Austria confirms its first cases, two travelers from Italy."
+    },
+    {
+        "country": "Italy,Croatia",
+        "date": "02/25/2020",
+        "description": "Croatia confirms its first case, a traveler from Italy."
+    },
+    {
+        "country": "Italy,Switzerland",
+        "date": "02/25/2020",
+        "description": "Switzerland confirms its first case, a traveler from Italy."
+    },
+    {
+        "country": "Iran",
+        "date": "02/25/2020",
+        "description": "Iran’s deputy health minister, Iraj Harirchi, tests positive for the coronavirus. Harirchi was leading the task force to limit the virus’s expansion and had appeared in public through February 24."
+    },
+    {
+        "country": "Jamaica",
+        "date": "02/25/2020",
+        "description": "Jamaica and the Cayman Islands deny another cruise ship, the MSC Meraviglia, permission to dock and disembark passengers."
+    },
+    {
+        "country": "United States",
+        "date": "02/25/2020",
+        "description": "U.S. senators receive a classified briefing on the Trump administration’s coronavirus response."
+    },
+    {
+        "country": "United States",
+        "date": "02/25/2020",
+        "description": "U.S. CDC warns that spread to the United States is likely and that people should prepare."
+    },
+    {
+        "country": "United States",
+        "date": "02/25/2020",
+        "description": "San Francisco becomes the first U.S. city to declare a state of emergency over COVID-19."
+    },
+    {
+        "country": "Brazil,Italy",
+        "date": "02/26/2020",
+        "description": "Brazil confirms its first case, a traveler from Italy."
+    },
+    {
+        "country": "Georgia,Iran",
+        "date": "02/26/2020",
+        "description": "Georgia confirms its first case, a traveler from Iran."
+    },
+    {
+        "country": "Greece,Italy",
+        "date": "02/26/2020",
+        "description": "Greece confirms its first case, a traveler from Italy."
+    },
+
+    {
+        "country": "North Macedonia,Italy",
+        "date": "02/26/2020",
+        "description": "North Macedonia confirms its first case, a traveler from Italy."
+    },
+    {
+        "country": "Norway",
+        "date": "02/26/2020",
+        "description": "Norway confirms its first case."
+    },
+    {
+        "country": "Pakistan,Iran",
+        "date": "02/26/2020",
+        "description": "Pakistan confirms its first case, a traveler from Iran."
+    },
+    {
+        "country": "Romania,Italy",
+        "date": "02/26/2020",
+        "description": "Romania confirms its first case, a man who had close contact with an Italian traveler."
+    },
+    {
+        "country": "Germany",
+        "date": "02/26/2020",
+        "description": "Germany’s minister of health announces the country is “at the beginning of an epidemic.”"
+    },
+    {
+        "country": "China",
+        "date": "02/26/2020",
+        "description": "WHO announces that February 25 was the first day there was more new cases outside of China than from China."
+    },
+    {
+        "country": "United States",
+        "date": "02/26/2020",
+        "description": "President Donald Trump names Vice President Mike Pence to lead the U.S. coronavirus response."
+    },
+    {
+        "country": "United States,South Korea",
+        "date": "02/26/2020",
+        "description": "An American soldier stationed in South Korea becomes the first U.S. service member to contract COVID-19."
+    },
+    {
+        "country": "United States,South Korea",
+        "date": "02/26/2020",
+        "description": "U.S. Department of State issues a Level 3 travel advisory for South Korea."
+    },
+    {
+        "country": "China",
+        "date": "02/26/2020",
+        "description": "WHO briefs on the findings of the WHO-led mission to China."
+    },
+    {
+        "country": "Denmark,Italy",
+        "date": "02/27/2020",
+        "description": "Denmark confirms its first case, a traveler from Italy."
+    },
+    {
+        "country": "Estonia,Iran",
+        "date": "02/27/2020",
+        "description": "Estonia confirms its first case, a traveler from Iran."
+    },
+    {
+        "country": "Netherlands,Italy",
+        "date": "02/27/2020",
+        "description": "The Netherlands confirms its first case, a traveler from Italy."
+    },
+    {
+        "country": "Nigeria,Italy",
+        "date": "02/27/2020",
+        "description": "Nigeria confirms its first case, a traveler from Italy."
+    },
+    {
+        "country": "San Marino",
+        "date": "02/27/2020",
+        "description": "San Marino confirms its first case."
+    },
+    {
+        "country": "United States,South Korea",
+        "date": "02/27/2020",
+        "description": "U.S. and South Korean militaries postpone key joint exercises because of the coronavirus."
+    },
+    {
+        "country": "United States",
+        "date": "02/27/2020",
+        "description": "U.S. CDC widens its testing guidelines."
+    },
+    {
+        "country": "Saudi Arabia",
+        "date": "02/27/2020",
+        "description": "Saudi Arabia suspends pilgrimage entry visas over coronavirus fears."
+    },
+    {
+        "country": "Iraq,Bahrain,Kuwait",
+        "date": "02/27/2020",
+        "description": "Iraq bans public gatherings and bars travelers from nine countries, including Bahrain and Kuwait."
+    },
+    {
+        "country": "Azerbaijan,Iran",
+        "date": "02/28/2020",
+        "description": "Azerbaijan confirms its first case, a traveler from Iran."
+    },
+    {
+        "country": "Belarus,Iran",
+        "date": "02/28/2020",
+        "description": "Belarus confirms its first case, a student from Iran."
+    },
+    {
+        "country": "Iceland,Italy",
+        "date": "02/28/2020",
+        "description": "Iceland confirms its first case, a traveler from Italy."
+    },
+    {
+        "country": "Lithuania,Italy",
+        "date": "02/28/2020",
+        "description": "Lithuania confirms its first case, a traveler from Italy."
+    },
+    {
+        "country": "New Zealand,Iran",
+        "date": "02/28/2020",
+        "description": "New Zealand confirms its first case, a traveler from Iran."
+    },
+    {
+        "country": "Mexico,Italy",
+        "date": "02/28/2020",
+        "description": "Mexico confirms its first case, a traveler from Italy."
+    },
+    {
+        "country": "Monaci",
+        "date": "02/28/2020",
+        "description": "Monaco confirms its first case."
+    },
+    {
+        "country": "Switzerland",
+        "date": "02/28/2020",
+        "description": "Switzerland bans all large gatherings over 1,000 people until at least March 15."
+    },
+    {
+        "country": "Mongolia,China",
+        "date": "02/28/2020",
+        "description": "Mongolia’s president and other government officials submit to a fourteen-day quarantine after returning from a one-day trip to China."
+    },
+    {
+        "country": "Ecuador,Spain",
+        "date": "02/29/2020",
+        "description": "Ecuador confirms its first case, a traveler from Spain."
+    },
+    {
+        "country": "Ireland,Italy",
+        "date": "02/29/2020",
+        "description": "Ireland confirms its first case, a traveler from Italy."
+    },
+    {
+        "country": "Luxembourg,Italy",
+        "date": "02/29/2020",
+        "description": "Luxembourg confirms its first case, a traveler from Italy."
+    },
+    {
+        "country": "Qatar,Iran",
+        "date": "02/29/2020",
+        "description": "Qatar confirms its first case, a traveler from Iran."
+    },
+    {
+        "country": "Australia",
+        "date": "02/29/2020",
+        "description": "Australia reports its first death, an evacuee from the Diamond Princess."
+    },
+    {
+        "country": "United States",
+        "date": "02/29/2020",
+        "description": "The United States reports its first death, a man in his fifties with an underlying health condition."
+    },
+    {
+        "country": "United States",
+        "date": "02/29/2020",
+        "description": "Washington state declares a state of emergency."
+    },
+    {
+        "country": "Armenia,Iran",
+        "date": "03/01/2020",
+        "description": "Armenia confirms its first case, a traveler from Iran."
+    },
+    {
+        "country": "Czech Republic,Italy",
+        "date": "03/01/2020",
+        "description": "Czech Republic confirms its first cases, three travelers from Italy."
+    },
+    {
+        "country": "Thailand",
+        "date": "03/01/2020",
+        "description": "Thailand reports its first death, a thirty-five-year-old man with dengue fever and COVID-19."
+    },
+    {
+        "country": "United States",
+        "date": "03/01/2020",
+        "description": "The United States reports its second death, a man in his seventies with underlying health conditions."
+    },
+    {
+        "country": "United States",
+        "date": "03/01/2020",
+        "description": "Florida declares a state of emergency."
+    },
+    {
+        "country": "Global",
+        "date": "03/01/2020",
+        "description": "Global death toll surpasses 3,000."
+    },
+    {
+        "country": "Andorra,Italy",
+        "date": "03/02/2020",
+        "description": "Andorra confirms its first case, a traveler from Italy."
+    },
+    {
+        "country": "Indonesia",
+        "date": "03/02/2020",
+        "description": "Indonesia confirms its first cases."
+    },
+    {
+        "country": "Jordan,Italy",
+        "date": "03/02/2020",
+        "description": "Jordan confirms its first case, a traveler from Italy."
+    },
+    {
+        "country": "Morocco,Italy",
+        "date": "03/02/2020",
+        "description": "Morocco confirms its first case, a traveler from Italy."
+    },
+    {
+        "country": "Portugal,Italy",
+        "date": "03/02/2020",
+        "description": "Portugal confirms its first cases, a traveler from Italy."
+    },
+    {
+        "country": "Saudi Arabia,Italy",
+        "date": "03/02/2020",
+        "description": "Saudi Arabia confirms its first case, a traveler from Iran."
+    },
+    {
+        "country": "Senegal,France",
+        "date": "03/02/2020",
+        "description": "Senegal confirms its first case, a traveler from France."
+    },
+    {
+        "country": "Tunisia",
+        "date": "03/02/2020",
+        "description": "Tunisia confirms its first case."
+    },
+    {
+        "country": "United States",
+        "date": "03/02/2020",
+        "description": "The United States reports four more deaths, all in Washington state."
+    },
+    {
+        "country": "Iran",
+        "date": "03/03/2020",
+        "description": "Iran temporarily frees 54,000 prisoners to curb the spread of coronavirus."
+    },
+    {
+        "country": "Ukraine,Italy",
+        "date": "03/03/2020",
+        "description": "Ukraine confirms its first case, a traveler from Italy."
+    },
+    {
+        "country": "China,Italy",
+        "date": "03/03/2020",
+        "description": "China reports only 125 new cases, seven of which are imported cases from Italy."
+    },
+    {
+        "country": "United States",
+        "date": "03/03/2020",
+        "description": "U.S. Federal Reserve cuts its benchmark interest rate by half a percentage point."
+    },
+    {
+        "country": "Argentina,Chile,Poland,Ukraine",
+        "date": "03/04/2020",
+        "description": "Argentina, Chile, Poland, and Ukraine reported new cases of COVID 19."
+    },
+    {
+        "country": "United States",
+        "date": "03/04/2020",
+        "description": "California declares state of emergency over coronavirus."
+    },
+    {
+        "country": "Japan",
+        "date": "03/04/2020",
+        "description": "Japan reports 33 new infections, their biggest one day increase."
+    },
+    {
+        "country": "United States",
+        "date": "03/04/2020",
+        "description": "House passes $8.3 billion emergency coronavirus bill."
+    },
+    {
+        "country": "United States",
+        "date": "03/05/2020",
+        "description": "New Jersey reports its first case."
+    },
+    {
+        "country": "United States",
+        "date": "03/05/2020",
+        "description": "U.S. Mortgage rate tumbles to a record low of 3.29%."
+    },
+    {
+        "country": "Iran",
+        "date": "03/05/2020",
+        "description": "Iran rejects offer for U.S. Humanitarian Aid."
+    },
+    {
+        "country": "United States",
+        "date": "03/05/2020",
+        "description": "Maryland declares state of emergency."
+    },
+    {
+        "country": "Global",
+        "date": "03/06/2020",
+        "description": "Number of coronavirus cases hits 100,000 globally."
+    },
+    {
+        "country": "United States",
+        "date": "03/06/2020",
+        "description": "Kentucky confirms first case."
+    },
+    {
+        "country": "United States",
+        "date": "03/06/2020",
+        "description": "Oklahoma announces first case."
+    },
+    {
+        "country": "Costa Rica",
+        "date": "03/06/2020",
+        "description": "Costa Rica confirms first case."
+    },
+    {
+        "country": "United States",
+        "date": "03/06/2020",
+        "description": "SXSW festival cancelled amidst coronavirus concerns."
+    },
+    {
+        "country": "Colombia",
+        "date": "03/06/2020",
+        "description": "Colombia reports first case of coronavirus."
+    },
+    {
+        "country": "United States",
+        "date": "03/06/2020",
+        "description": "CDC urges those over 60 to stay indoors."
+    },
+    {
+        "country": "United States",
+        "date": "03/07/2020",
+        "description": "Kansas reports first positive coronavirus case."
+    },
+    {
+        "country": "United States",
+        "date": "03/07/2020",
+        "description": "DC reports first positive coronavirus case"
+    },
+    {
+        "country": "Maldives",
+        "date": "03/07/2020",
+        "description": "Maldives confirms first two cases of coronavirus"
+    },
+    {
+        "country": "United States",
+        "date": "03/07/2020",
+        "description": "CPAC attendee tests positive of coronavirus"
+    },
+    {
+        "country": "Brazil,Chile,Paraguay",
+        "date": "03/07/2020",
+        "description": "Brazil, Chile, and Paraguay all announce their first cases of coronavirus."
+    },
+    {
+        "country": "Global",
+        "date": "03/07/2020",
+        "description": "Roughly 5,861 coronavirus tests completed by CDC and public health labs."
+    },
+    {
+        "country": "United States",
+        "date": "03/07/2020",
+        "description": "New York declares a state of emergency."
+    },
+    {
+        "country": "China",
+        "date": "03/07/2020",
+        "description": "China outlaws eating wild animals."
+    },
+    {
+        "country": "Saudi Arabia,United Arab Emirates,Kuwait,Bahrain,Lebanon,Syria,South Korea,Egypt,Italy,Iraq",
+        "date": "03/08/2020",
+        "description": "Saudi Arabia suspends air and naval travel with the following countries over growing coronavirus concerns: United Arab Emirates, Kuwait, Bahrain, Lebanon, Syria, South Korea, Egypt, Italy, Iraq"
+    },
+    {
+        "country": "Qatar",
+        "date": "03/08/2020",
+        "description": "Qatar suspends entry from 14 additional countries over coronavirus"
+    },
+    {
+        "country": "United States",
+        "date": "03/08/2020",
+        "description": "First 3 positive coronavirus cases reported in Iowa"
+    },
+    {
+        "country": "United States",
+        "date": "03/08/2020",
+        "description": "Connecticut confirms first case of coronavirus"
+    },
+    {
+        "country": "United States",
+        "date": "03/08/2020",
+        "description": "Number of cases in the United States passes 500"
+    },
+    {
+        "country": "France",
+        "date": "03/08/2020",
+        "description": "France bans gatherings of more than 1,000 people due to coronavirus concerns"
+    },
+    {
+        "country": "United States",
+        "date": "03/08/2020",
+        "description": "Eight U.S. states declare a state of emergency"
+    },
+    {
+        "country": "United States,South Korea,Italy",
+        "date": "03/08/2020",
+        "description": "The US Army suspends travel for soldiers and families to and from South Korea and Italy."
+    },
+    {
+        "country": "Thailand,South Korea,China,Iran,Italy",
+        "date": "03/08/2020",
+        "description": "Thailand requires travelers from South Korea, China, Iran and Italy to self-isolate for 14 days."
+    },
+    {
+        "country": "Italy",
+        "date": "03/09/2020",
+        "description": "Italy declares nation-wide lockdown."
+    },
+    {
+        "country": "United Kingdom,Italy",
+        "date": "03/09/2020",
+        "description": "UK advises against all but essential travel to Italy."
+    },
+    {
+        "country": "China",
+        "date": "03/09/2020",
+        "description": "WHO reports that more than 70% of coronavirus cases in China have recovered."
+    },
+    {
+        "country": "United States",
+        "date": "03/09/2020",
+        "description": "Rhode Island declares state of emergency."
+    },
+    {
+        "country": "United States",
+        "date": "03/09/2020",
+        "description": "White House coronavirus task force briefing."
+    },
+    {
+        "country": "Canada",
+        "date": "03/09/2020",
+        "description": "Canada announces first coronavirus death."
+    },
+    {
+        "country": "Spain",
+        "date": "03/09/2020",
+        "description": "Madrid region in Spain closes all school."
+    },
+    {
+        "country": "China",
+        "date": "03/09/2020",
+        "description": "China reopens schools in Qinghai Province."
+    },
+    {
+        "country": "Israel",
+        "date": "03/09/2020",
+        "description": "Israel imposes 14 day quarantine for all international travelers."
+    },
+    {
+        "country": "Cyprus",
+        "date": "03/09/2020",
+        "description": "Cyprus reports first two coronavirus cases."
+    },
+    {
+        "country": "Louisiana",
+        "date": "03/09/2020",
+        "description": "Louisiana reports first positive coronavirus case."
+    },
+    {
+        "country": "Germany",
+        "date": "03/09/2020",
+        "description": "Germany reports first two deaths from coronavirus."
+    },
+    {
+        "country": "United States",
+        "date": "03/09/2020",
+        "description": "New York announces it will be making its own hand sanitizer using prison labor."
+    },
+    {
+        "country": "Egypt",
+        "date": "03/09/2020",
+        "description": "Egypt cancels large gatherings over 1000 people."
+    },
+
+
+    {
+        "country": "United States",
+        "date": "03/10/2020",
+        "description": "Michigan, Vermont, North Carolina, Massachusetts, and Colorado all declare a state of emergency (23 states total)."
+    },
+    {
+        "country": "Panama",
+        "date": "03/10/2020",
+        "description": "Panama reports first coronavirus death."
+    },
+    {
+        "country": "Portugal,Italy",
+        "date": "03/10/2020",
+        "description": "Portugal suspends flights to Italy for 14 days."
+    },
+    {
+        "country": "Chile,Spain,Italy",
+        "date": "03/10/2020",
+        "description": "Chile announces 14-day quarantine for passengers arriving from Spain and Italy."
+    },
+    {
+        "country": "United States",
+        "date": "03/10/2020",
+        "description": "Coachella music festival is postponed until October."
+    },
+    {
+        "country": "United States",
+        "date": "03/10/2020",
+        "description": "South Dakota reports first coronavirus death."
+    },
+    {
+        "country": "United States",
+        "date": "03/10/2020",
+        "description": "President Trump fails to attend coronavirus briefing. Mike Pence leads instead."
+    },
+    {
+        "country": "United States",
+        "date": "03/10/2020",
+        "description": "New Jersey reports first coronavirus death."
+    },
+    {
+        "country": "Greece",
+        "date": "03/10/2020",
+        "description": "Greece closes all schools and universities for two weeks."
+    },
+    {
+        "country": "United States",
+        "date": "03/10/2020",
+        "description": "Pence announces no copays on coronavirus treatment."
+    },
+    {
+        "country": "Spain,Italy",
+        "date": "03/10/2020",
+        "description": "Spain suspends all flights to Italy for two weeks."
+    },
+    {
+        "country": "United States",
+        "date": "03/10/2020",
+        "description": "United Nations closes New York Headquarters to the public."
+    },
+    {
+        "country": "Vatican City",
+        "date": "03/10/2020",
+        "description": "The Vatican closes St. Peter's square and Basilica to tourists."
+    },
+    {
+        "country": "Iran,China",
+        "date": "03/10/2020",
+        "description": "Iran reports over 8,000 cases, the second highest outside China."
+    },
+    {
+        "country": "Czech Republic",
+        "date": "03/10/2020",
+        "description": "Czech Republic closes schools."
+    },
+    {
+        "country": "Global",
+        "date": "03/10/2020",
+        "description": "Coronavirus is reported in all 26 European Union member states."
+    },
+    {
+        "country": "Global",
+        "date": "03/11/2020",
+        "description": "WHO declares the coronavirus outbreak a pandemic."
+    },
+    {
+        "country": "Turkey",
+        "date": "03/11/2020",
+        "description": "Turkey confirms first case of coronavirus."
+    },
+    {
+        "country": "United States",
+        "date": "03/11/2020",
+        "description": "Arizona declares state of emergency."
+    },
+    {
+        "country": "United States",
+        "date": "03/11/2020",
+        "description": "Washington D.C. declares state of emergency."
+    },
+    {
+        "country": "United States,China,Iran",
+        "date": "03/11/2020",
+        "description": "United States announces level 3 travel advisory and suspended entry to all foreign nationals traveling from China, Iran, and certain European countries at any point during the 14 days prior to their scheduled travel to the U.S."
+    },
+    {
+        "country": "United States",
+        "date": "03/11/2020",
+        "description": "North Dakota records its first positive case of coronavirus."
+    },
+    {
+        "country": "United States",
+        "date": "03/11/2020",
+        "description": "Delaware records its first positive case of coronavirus."
+    },
+    {
+        "country": "United States",
+        "date": "03/11/2020",
+        "description": "NBA suspends their season."
+    },
+    {
+        "country": "El Salvador",
+        "date": "03/11/2020",
+        "description": "El Salvador imposes 21-day quarantine and prohibits entry to all foreigners."
+    },
+    {
+        "country": "Italy",
+        "date": "03/11/2020",
+        "description": "Italy closes all shops and venues across the country."
+    },
+    {
+        "country": "Austria",
+        "date": "03/11/2020",
+        "description": "Austria announces it will close schools until April."
+    },
+    {
+        "country": "India",
+        "date": "03/11/2020",
+        "description": "India suspends all tourist visas until April 15."
+    },
+    {
+        "country": "Ireland",
+        "date": "03/11/2020",
+        "description": "Ireland reports its first coronavirus death."
+    },
+    {
+        "country": "Sweden",
+        "date": "03/11/2020",
+        "description": "Sweden reports its first coronavirus death."
+    },
+    {
+        "country": "Global",
+        "date": "03/11/2020",
+        "description": "The United Nations reports that about 20% of students are out of school globally as a result of the pandemic."
+    },
+    
+
+
+
+    {
+        "country": "China",
+        "date": "03/12/2020",
+        "description": "Wuhan, the epicenter of the outbreak records just 5 new cases of coronavirus."
+    },
+    {
+        "country": "United States",
+        "date": "03/12/2020",
+        "description": "Kansas reports first coronavirus death."
+    },
+    {
+        "country": "United States",
+        "date": "03/12/2020",
+        "description": "Montana declares state of emergency."
+    },
+    {
+        "country": "Portugal",
+        "date": "03/12/2020",
+        "description": "Portugal closes all schools."
+    },
+    {
+        "country": "United States",
+        "date": "03/12/2020",
+        "description": "U.S. stocks record their worst day since 1987."
+    },
+    {
+        "country": "United States",
+        "date": "03/12/2020",
+        "description": "New York City declares a state of emergency."
+    },
+    {
+        "country": "Greece",
+        "date": "03/12/2020",
+        "description": "Greece closes all entertainment venues for at least two weeks."
+    },
+    {
+        "country": "United States",
+        "date": "03/12/2020",
+        "description": "Ohio closes all public schools until at least April 3."
+    },
+    {
+        "country": "Frqance",
+        "date": "03/12/2020",
+        "description": "France closes all schools."
+    },
+    {
+        "country": "Norway",
+        "date": "03/12/2020",
+        "description": "Norway records first coronavirus death."
+    },
+    {
+        "country": "Israel",
+        "date": "03/12/2020",
+        "description": "Israel orders closure of schools and universities."
+    },
+    {
+        "country": "United States",
+        "date": "03/12/2020",
+        "description": "Virginia declares state of emergency."
+    },
+    {
+        "country": "India",
+        "date": "03/12/2020",
+        "description": "India records first coronavirus death."
+    },
+    {
+        "country": "United States",
+        "date": "03/12/2020",
+        "description": "New York bans gatherings of more than 500 people."
+    },
+    {
+        "country": "United States",
+        "date": "03/12/2020",
+        "description": "Tennessee declares a state of emergency."
+    },
+    {
+        "country": "United States",
+        "date": "03/12/2020",
+        "description": "Oregon cancels all gatherings of more than 250 people."
+    },
+    {
+        "country": "Global",
+        "date": "03/12/2020",
+        "description": "The United Nations suspends human rights council session."
+    },
+
+
+
+    {
+        "country": "Global",
+        "date": "03/13/2020",
+        "description": "More than 5,000 have died from coronavirus worldwide."
+    },
+    {
+        "country": "United States",
+        "date": "03/13/2020",
+        "description": "Donald Trump declares a state of National Emergency under Stafford Act."
+    },
+    {
+        "country": "United States",
+        "date": "03/13/2020",
+        "description": "New Mexico closes all public schools for three weeks."
+    },
+    {
+        "country": "United States",
+        "date": "03/13/2020",
+        "description": "New York opens drive through coronavirus test center."
+    },
+    {
+        "country": "United States",
+        "date": "03/13/2020",
+        "description": "Utah bans large gatherings for two weeks."
+    },
+    {
+        "country": "United States",
+        "date": "03/13/2020",
+        "description": "Maryland announces it will close all schools for two weeks."
+    },
+    {
+        "country": "Denmark,Poland,Czech Republic",
+        "date": "03/13/2020",
+        "description": "Denmark, Poland, and the Czech Republic close their borders."
+    },
+    {
+        "country": "Uruguay",
+        "date": "03/13/2020",
+        "description": "Uruguay records first case of coronavirus."
+    },
+    {
+        "country": "United States",
+        "date": "03/13/2020",
+        "description": "Sixteen states including: Alabama, Wisconsin, Maryland, Ohio, Kentucky, Washington, Wisconsin,  West Virginia, Illinois, Pennsylvania, Louisiana, Rhode Island, Michigan, New Mexico, Oregon, Virginia, Utah have announced school closures."
+    },
+    {
+        "country": "United States",
+        "date": "03/13/2020",
+        "description": "House reaches deal to pass Families First Coronavirus Response Act."
+    },
+    {
+        "country": "Guatemala",
+        "date": "03/13/2020",
+        "description": "Guatemala reports first coronavirus case."
+    },
+    {
+        "country": "Ukraine",
+        "date": "03/13/2020",
+        "description": "Ukraine announces it will close its borders to foreigners for two weeks."
+    },
+    {
+        "country": "Denmark",
+        "date": "03/13/2020",
+        "description": "Denmark closes its borders to all tourists until April 15."
+    },
+    {
+        "country": "Venezuela",
+        "date": "03/13/2020",
+        "description": "Venezuela announces its first cases of coronavirus."
+    },
+    {
+        "country": "United States",
+        "date": "03/13/2020",
+        "description": "Massachusetts bans gatherings of more than 250 people."
+    },
+    {
+        "country": "Scotland",
+        "date": "03/13/2020",
+        "description": "Scotland records first coronavirus death."
+    },
+    {
+        "country": "United States",
+        "date": "03/13/2020",
+        "description": "Louisiana postpones primary elections amidst growing coronavirus concerns."
+    },
+    {
+        "country": "Sudan",
+        "date": "03/13/2020",
+        "description": "Sudan reports first coronavirus death."
+    },
+    {
+        "country": "Ukraine",
+        "date": "03/13/2020",
+        "description": "Ukraine reports first coronavirus death."
+    },
+    {
+        "country": "Global",
+        "date": "03/13/2020",
+        "description": "WHO declares Europe the new epicenter of the outbreak."
+    },
+    {
+        "country": "Spain",
+        "date": "03/13/2020",
+        "description": "Spain declares state of emergency."
+    },
+    {
+        "country": "United States",
+        "date": "03/14/2020",
+        "description": "Austin, TX bans gatherings of more than 250 people."
+    },
+    {
+        "country": "United States",
+        "date": "03/14/2020",
+        "description": "The United States reaches 2,750 Coronavirus cases. All states have reported cases except West Virginia."
+    },
+    {
+        "country": "United States",
+        "date": "03/14/2020",
+        "description": "President Trump tests negative for coronavirus."
+    },
+    {
+        "country": "United States",
+        "date": "03/14/2020",
+        "description": "Georgia declares a state of emergency."
+    },
+    {
+        "country": "United States",
+        "date": "03/14/2020",
+        "description": "Georgia postpones their democratic primary out of safety concerns."
+    },
+    {
+        "country": "United States",
+        "date": "03/14/2020",
+        "description": "Virginia reports first coronavirus death."
+    },
+    {
+        "country": "United States",
+        "date": "03/14/2020",
+        "description": "Trump attends White House Coronavirus task force briefing."
+    },
+    {
+        "country": "United States",
+        "date": "03/14/2020",
+        "description": "New York records its first coronavirus related death. It releases the report of the first two deaths on March 15."
+    },
+    {
+        "country": "Italy",
+        "date": "03/14/2020",
+        "description": "Italy suspends all civilian flights."
+    },
+    {
+        "country": "Colombia,Venezuela",
+        "date": "03/14/2020",
+        "description": "Colombia closes its border with Venezuela."
+    },
+    {
+        "country": "New Zealand",
+        "date": "03/14/2020",
+        "description": "New Zealand mandates all arrivals to self-quarantine for 14 days."
+    },
+    {
+        "country": "Aruba",
+        "date": "03/14/2020",
+        "description": "Aruba announces first two coronavirus cases."
+    },
+    {
+        "country": "South Korea",
+        "date": "03/14/2020",
+        "description": "Number new coronavirus cases in South Korea continues to decline."
+    },
+    {
+        "country": "Turkey",
+        "date": "03/14/2020",
+        "description": "Turkey suspends flights to nine European countries."
+    },
+
+
+
+    {
+        "country": "Lebanon",
+        "date": "03/15/2020",
+        "description": "Lebanon announces a 14 day lockdown."
+    },
+    {
+        "country": "United States",
+        "date": "03/15/2020",
+        "description": "New York City public schools close."
+    },
+    {
+        "country": "United States",
+        "date": "03/15/2020",
+        "description": "New York Mayor Bill DeBlasio signs an executive order stating that New York City hospitals are required to cancel elective surgeries."
+    },
+    {
+        "country": "Guatemala",
+        "date": "03/15/2020",
+        "description": "Guatemala reports its first coronavirus death."
+    },
+    {
+        "country": "Panama",
+        "date": "03/15/2020",
+        "description": "Panama closes its borders to non-citizens and residents."
+    },
+    {
+        "country": "Bahamas",
+        "date": "03/15/2020",
+        "description": "The Bahamas reports its first case of coronavirus."
+    },
+    {
+        "country": "United States",
+        "date": "03/15/2020",
+        "description": "Oklahoma declares a state of emergency."
+    },
+    {
+        "country": "United States",
+        "date": "03/15/2020",
+        "description": "Maine declares a state of emergency."
+    },
+    {
+        "country": "United States",
+        "date": "03/15/2020",
+        "description": "Massachusetts bans eating and drinking at bars until at least April 17."
+    },
+    {
+        "country": "United States",
+        "date": "03/15/2020",
+        "description": "29 States announce school closures."
+    },
+    {
+        "country": "Kazakhstan,Uzbekistan",
+        "date": "03/15/2020",
+        "description": "Kazakhstan and Uzbekistan close borders after first coronavirus cases."
+    },
+
+
+    {
+        "country": "United States",
+        "date": "03/16/2020",
+        "description": "CDC reports over 4,000 coronavirus cases in the United States."
+    },
+    {
+        "country": "United States",
+        "date": "03/16/2020",
+        "description": "South Carolina reports first coronavirus related death."
+    },
+    {
+        "country": "China",
+        "date": "03/16/2020",
+        "description": "China closes all 16 temporary hospitals in Wuhan."
+    },
+    {
+        "country": "United States",
+        "date": "03/16/2020",
+        "description": "Georgia closes all public schools until March 31."
+    },
+    {
+        "country": "San Francisco",
+        "date": "03/16/2020",
+        "description": "San Francisco closes all public schools for three weeks."
+    },
+    {
+        "country": "Malaysia",
+        "date": "03/16/2020",
+        "description": "Malaysia introduces a movement control order."
+    },
+    {
+        "country": "Colombia",
+        "date": "03/16/2020",
+        "description": "Colombia closes its borders to non-citizens and residents."
+    },
+    {
+        "country": "France",
+        "date": "03/16/2020",
+        "description": "France closes its borders to non-citizens and residents  and bans all social gatherings."
+    },
+    {
+        "country": "Germany",
+        "date": "03/16/2020",
+        "description": "Germany closes its borders to non-citizens and residents."
+    },
+    {
+        "country": "Sudan",
+        "date": "03/16/2020",
+        "description": "Sudan closes its borders to non-citizens and residents."
+    },
+    {
+        "country": "Hungary",
+        "date": "03/16/2020",
+        "description": "Hungary closes its borders to all non-citizens and residents."
+    },
+    {
+        "country": "Spain",
+        "date": "03/16/2020",
+        "description": "Spain closes its borders to all non-citizens and residents."
+    },
+    {
+        "country": "Switzerland",
+        "date": "03/16/2020",
+        "description": "Switzerland bans all events and closes shops."
+    },
+    {
+        "country": "Egypt",
+        "date": "03/16/2020",
+        "description": "Egypt suspends all flights for two weeks."
+    },
+    {
+        "country": "United States",
+        "date": "03/16/2020",
+        "description": "The Dow records its worst-drop in history."
+    },
+    {
+        "country": "Global",
+        "date": "03/16/2020",
+        "description": "Airlines request $50 billion in assistance packages."
+    },
+    {
+        "country": "China",
+        "date": "03/16/2020",
+        "description": "Lockdown in China estimated to have saved approximately 77,000 lives by slashing air pollution."
+    },
+    {
+        "country": "Somalia",
+        "date": "03/16/2020",
+        "description": "Somalia reports first coronavirus case."
+    },
+
+
+
+    {
+        "country": "Global",
+        "date": "03/17/2020",
+        "description": "The European Union closes its borders to all non-essential travel."
+    },
+    {
+        "country": "Russia",
+        "date": "03/17/2020",
+        "description": "Russia closes its borders to all non-citizens, residents, and diplomats--effective until May."
+    },
+    {
+        "country": "Bolivia",
+        "date": "03/17/2020",
+        "description": "Bolivia closes its borders and suspends all non-essential flights."
+    },
+    {
+        "country": "Turkey",
+        "date": "03/17/2020",
+        "description": "Turkey confirms its first coronavirus death."
+    },
+    {
+        "country": "United States",
+        "date": "03/17/2020",
+        "description": "West Virginia confirms its first coronavirus case—making the virus present in all 50 United States."
+    },
+    {
+        "country": "Gambia",
+        "date": "03/17/2020",
+        "description": "Gambia reports first case of coronavirus."
+    },
+    {
+        "country": "Guatemala, United States",
+        "date": "03/17/2020",
+        "description": "Guatemala blocks U.S. deportation flights to curb the spread of coronavirus."
+    },
+    {
+        "country": "Montenegro",
+        "date": "03/17/2020",
+        "description": "Montenegro reports its first two cases of coronavirus."
+    },
+    {
+        "country": "Iran",
+        "date": "03/17/2020",
+        "description": "Iran releases 85,000 prisoners in a bid to curb the spread of the virus."
+    },
+    {
+        "country": "Malaysia",
+        "date": "03/17/2020",
+        "description": "Malaysia announces first two coronavirus deaths."
+    },
+    {
+        "country": "United States",
+        "date": "03/18/2020",
+        "description": "Trump signs the Families First Coronavirus Response Act into law."
+    },
+    {
+        "country": "United States,Canada",
+        "date": "03/18/2020",
+        "description": "The United States and Canada suspend non-essential travel between the two countries."
+    },
+    {
+        "country": "Belgium",
+        "date": "03/18/2020",
+        "description": "Belgium imposes a lockdown to help curb the spread of coronavirus."
+    },
+    {
+        "country": "Macao",
+        "date": "03/18/2020",
+        "description": "Macao closes its borders to all non-citizens and residents."
+    },
+    {
+        "country": "Maryland",
+        "date": "03/18/2020",
+        "description": "Maryland reports first coronavirus death."
+    },
+
+
+
+    {
+        "country": "Italy,China",
+        "date": "03/19/2020",
+        "description": "Italy’s coronavirus death toll surpasses China’s."
+    },
+    {
+        "country": "China",
+        "date": "03/19/2020",
+        "description": "China reports zero new local coronavirus virus infections."
+    },
+    {
+        "country": "United States",
+        "date": "03/19/2020",
+        "description": "California issues a stay-at-home order for all of its 40 million residents."
+    },
+    {
+        "country": "United States",
+        "date": "03/19/2020",
+        "description": "Connecticut postpones primaries to June 2."
+    },
+    {
+        "country": "India",
+        "date": "03/19/2020",
+        "description": "India bans all incoming international flights."
+    },
+    {
+        "country": "India",
+        "date": "03/19/2020",
+        "description": "Indian government bans exports of masks, ventilators, as well as certain medications and supplements."
+    },
+    {
+        "country": "United States",
+        "date": "03/19/2020",
+        "description": "Vermont reports first coronavirus-related deaths."
+    },
+    {
+        "country": "Peru",
+        "date": "03/19/2020",
+        "description": "Peru confirms first coronavirus death."
+    },
+    {
+        "country": "Haiti",
+        "date": "03/19/2020",
+        "description": "Haiti enters a full-lockdown."
+    },
+    {
+        "country": "United States",
+        "date": "03/19/2020",
+        "description": "The United States CDC reports more than 13,000 coronavirus cases."
+    },
+    {
+        "country": "United States",
+        "date": "03/19/2020",
+        "description": "G7 summit to be held via videoconference."
+    },
+    {
+        "country": "France",
+        "date": "03/19/2020",
+        "description": "France reports over 10,000 coronavirus cases."
+    },
+    {
+        "country": "United States",
+        "date": "03/19/2020",
+        "description": "U.S. Department of States issues a level-four “Do Not Travel” advisory."
+    },
+    {
+        "country": "Italy,China",
+        "date": "03/19/2020",
+        "description": "Italy surpasses China as the country with the most coronavirus deaths."
+    },
+    {
+        "country": "Maryland",
+        "date": "03/19/2020",
+        "description": "Prince Albert of France tests positive for coronavirus."
+    },
+    {
+        "country": "Italy",
+        "date": "03/20/2020",
+        "description": "Italy records 627 deaths, the largest single increase since the onset of the outbreak."
+    },
+    {
+        "country": "United States",
+        "date": "03/20/2020",
+        "description": "The United States CDC reports more than 18,000 coronavirus cases."
+    },
+    {
+        "country": "Cuba",
+        "date": "03/20/2020",
+        "description": "Cuba closes its borders to non-citizens and non-residents."
+    },
+    {
+        "country": "United States",
+        "date": "03/20/2020",
+        "description": "Ohio reports first coronavirus death."
+    },
+    {
+        "country": "Zimbabwe",
+        "date": "03/20/2020",
+        "description": "Zimbabwe reports first coronavirus case."
+    },
+    {
+        "country": "United States",
+        "date": "03/20/2020",
+        "description": "U.S. stocks close their worst week since the 2008 financial crisis."
+    },
+    {
+        "country": "Canada,United States",
+        "date": "03/20/2020",
+        "description": "Canada announces it will turn back asylum seekers at the U.S. border."
+    },
+    {
+        "country": "Global",
+        "date": "03/20/2020",
+        "description": "WHO delivers more than 1.5 million coronavirus lab test kits around the world."
+    },
+    {
+        "country": "United States",
+        "date": "03/20/2020",
+        "description": "Washington D.C. reports first coronavirus death."
+    },
+    {
+        "country": "Hong Kong",
+        "date": "03/20/2020",
+        "description": "Hong Kong confirms largest single day increase of 48 coronavirus cases."
+    },
+    {
+        "country": "United States",
+        "date": "03/20/2020",
+        "description": "Trump invokes Defense Production Act to disperse medical supplies to hospitals."
+    },
+
+
+
+    {
+        "country": "China",
+        "date": "03/21/2020",
+        "description": "China reports no new local coronavirus cases for the third consecutive day."
+    },
+    {
+        "country": "Angola,Eritrea,Uganda",
+        "date": "03/21/2020",
+        "description": "Angola, Eritrea, and Uganda confirm their first cases of coronavirus."
+    },
+    {
+        "country": "Mauritius",
+        "date": "03/21/2020",
+        "description": "Mauritius reports its first coronavirus death."
+    },
+    {
+        "country": "Bolivia",
+        "date": "03/21/2020",
+        "description": "Bolivia announces a total 14-day quarantine."
+    },
+    {
+        "country": "Chile",
+        "date": "03/21/2020",
+        "description": "Chile reports first coronavirus death."
+    },
+    {
+        "country": "Vietnam",
+        "date": "03/21/2020",
+        "description": "Vietnam suspends all inbound international flights."
+    },
+    {
+        "country": "Egypt",
+        "date": "03/21/2020",
+        "description": "Egypt closes all mosques and churches for 14 days."
+    },
+    {
+        "country": "Pakistan",
+        "date": "03/21/2020",
+        "description": "Pakistan bans all incoming flights."
+    },
+    {
+        "country": "Colombia",
+        "date": "03/21/2020",
+        "description": "Colombia announces mandator 19-day isolation period as a preventative measure."
+    },
+    {
+        "country": "United Arab Emirates",
+        "date": "03/21/2020",
+        "description": "United Arab Emirates announce first coronavirus-related deaths."
+    },
+    {
+        "country": "United States",
+        "date": "03/21/2020",
+        "description": "Arizona records first coronavirus death."
+    },
+    {
+        "country": "Global",
+        "date": "03/22/2020",
+        "description": "Global coronavirus cases double from last week, reaching almost 330,000 cases."
+    },
+    {
+        "country": "India",
+        "date": "03/22/2020",
+        "description": "India suspends all international flights arriving and departing from India for at least one week."
+    },
+    {
+        "country": "Panama",
+        "date": "03/22/2020",
+        "description": "Panama suspends all international flights until at least April 31."
+    },
+    {
+        "country": "United States",
+        "date": "03/22/2020",
+        "description": "Hawaii announces mandatory 14-day quarantine for everyone entering—including residents."
+    },
+    {
+        "country": "United Arab Emirates",
+        "date": "03/22/2020",
+        "description": "United Arab Emirates suspends all inbound and outbound passenger flights for two weeks."
+    },
+    {
+        "country": "Czech Republic",
+        "date": "03/22/2020",
+        "description": "Czech Republic reports first coronavirus death."
+    },
+    {
+        "country": "Syria",
+        "date": "03/22/2020",
+        "description": "Syria reports its first coronavirus case."
+    },
+    {
+        "country": "Spain",
+        "date": "03/22/2020",
+        "description": "Spain extends state of emergency for another 15 days."
+    },
+    {
+        "country": "Germany",
+        "date": "03/22/2020",
+        "description": "Germany introduces a ‘contact ban’—banning groups of more than two people."
+    },
+    {
+        "country": "Greece",
+        "date": "03/22/2020",
+        "description": "Greece enters a lockdown."
+    },
+    {
+        "country": "Guam",
+        "date": "03/22/2020",
+        "description": "Guam reports first coronavirus death."
+    },
+    {
+        "country": "Colombia",
+        "date": "03/22/2020",
+        "description": "Colombia reports its first coronavirus death."
+    },
+    {
+        "country": "Singapore",
+        "date": "03/22/2020",
+        "description": "Singapore closes its borders to all visitors."
+    },
+    {
+        "country": "Cuba",
+        "date": "03/23/2020",
+        "description": "Cuba announces lockdown, will restrict movement of its citizens."
+    },
+    {
+        "country": "United Kingdom",
+        "date": "03/23/2020",
+        "description": "United Kingdom announces lockdown."
+    },
+    {
+        "country": "Zimbabwe",
+        "date": "03/23/2020",
+        "description": "Zimbabwe records its first coronavirus death."
+    },
+    {
+        "country": "Zimbabwe",
+        "date": "03/23/2020",
+        "description": "Zimbabwe closes its borders to non-citizens and non-residents."
+    },
+    {
+        "country": "Nigeria",
+        "date": "03/23/2020",
+        "description": "Nigeria closes its land borders to non-citizens and non-residents for four weeks."
+    },
+    {
+        "country": "United States",
+        "date": "03/23/2020",
+        "description": "New Hampshire reports first coronavirus death."
+    },
+    {
+        "country": "Global",
+        "date": "03/23/2020",
+        "description": "WHO announces the “pandemic is accelerating.”"
+    },
+    {
+        "country": "United States",
+        "date": "03/24/2020",
+        "description": "U.S. National Guard is activated in all 50 States."
+    },
+    {
+        "country": "United States",
+        "date": "03/24/2020",
+        "description": "Navy reports first cases of Coronavirus aboard a ship at Sea."
+    },
+    {
+        "country": "Japan",
+        "date": "03/24/2020",
+        "description": "Japan postpones 2020 summer Olympics for the first time since World War Two."
+    },
+    {
+        "country": "Germany",
+        "date": "03/24/2020",
+        "description": "Angela Merkel tests negative for coronavirus."
+    },
+    {
+        "country": "New Zealand",
+        "date": "03/24/2020",
+        "description": "New Zealand enters lockdown."
+    },
+    {
+        "country": "Australia",
+        "date": "03/24/2020",
+        "description": "Australia bans all overseas travel."
+    },
+    {
+        "country": "United States",
+        "date": "03/24/2020",
+        "description": "United States reaches 50,000 coronavirus cases."
+    },
+    {
+        "country": "China",
+        "date": "03/24/2020",
+        "description": "China lifts lockdown on Hubei province."
+    },
+    {
+        "country": "Spain,China",
+        "date": "03/25/2020",
+        "description": "Spain supplants China as the country with the second-greatest number of recorded COVID-19 deaths."
+    },
+    {
+        "country": "United Kingdom",
+        "date": "03/25/2020",
+        "description": "Prince Charles tests positive for coronavirus."
+    },
+    {
+        "country": "United States",
+        "date": "03/25/2020",
+        "description": "North Carolina reports first coronavirus death."
+    },
+    {
+        "country": "Global",
+        "date": "03/25/2020",
+        "description": "Nearly one third of the world’s population is affected by coronavirus lockdowns."
+    },
+    {
+        "country": "Global",
+        "date": "03/25/2020",
+        "description": "The United Nations launches $2 billion humanitarian response plan."
+    },
+    {
+        "country": "Global",
+        "date": "03/25/2020",
+        "description": "WHO warns that there is a “significant shortage” of medical supplies."
+    },
+
+
+
+    {
+        "country": "Global",
+        "date": "03/26/2020",
+        "description": "Nearly a third of the world’s population are living under coronavirus-related restrictions."
+    },
+    {
+        "country": "United States",
+        "date": "03/26/2020",
+        "description": "United States death toll reaches one thousand."
+    },
+    {
+        "country": "United States",
+        "date": "03/26/2020",
+        "description": "More than 3.2 million Americans filed unemployment claims last week—the highest number to date."
+    },
+    {
+        "country": "United States",
+        "date": "03/26/2020",
+        "description": "The Senate unanimously passes a $2 trillion stimulus plan."
+    },
+    {
+        "country": "United States",
+        "date": "03/26/2020",
+        "description": "New York City becomes the epicenter of the US outbreak. Reported coronavirus cases double every three days."
+    },
+    {
+        "country": "Singapore",
+        "date": "03/26/2020",
+        "description": "Singapore records 73 new cases of the virus—their largest single-day increase to date."
+    },
+    {
+        "country": "Iraq,Lebanon",
+        "date": "03/26/2020",
+        "description": "Iraq and Lebanon extend their curfews until April 11."
+    },
+    {
+        "country": "Russia",
+        "date": "03/26/2020",
+        "description": "Moscow announces it will be closing all non-essential businesses until April 5, effective March 28."
+    },
+    {
+        "country": "Panama",
+        "date": "03/26/2020",
+        "description": "Panama suspends all domestic flights."
+    },
+    {
+        "country": "Venezuela",
+        "date": "03/26/2020",
+        "description": "Venezuela reports its first coronavirus death."
+    },
+    {
+        "country": "Spain",
+        "date": "03/26/2020",
+        "description": "Spain extends state of emergency until April 12."
+    },
+    {
+        "country": "Thailand",
+        "date": "03/26/2020",
+        "description": "Thailand declares state of emergency."
+    },
+    {
+        "country": "Armenia",
+        "date": "03/26/2020",
+        "description": "Armenia reports first coronavirus death."
+    },
+    {
+        "country": "United Kingdom",
+        "date": "03/27/2020",
+        "description": "UK Prime Minister Boris Johnson tests positive for coronavirus."
+    },
+    {
+        "country": "China",
+        "date": "03/27/2020",
+        "description": "China bans foreign visitors after imported cases rise."
+    },
+    {
+        "country": "South Africa",
+        "date": "03/27/2020",
+        "description": "South Africa imposes three-week lockdown."
+    },
+    {
+        "country": "South Africa",
+        "date": "03/27/2020",
+        "description": "South Africa reports its first coronavirus death."
+    },
+    {
+        "country": "United States",
+        "date": "03/27/2020",
+        "description": "Montana reports its first coronavirus death."
+    },
+    {
+        "country": "Sri Lanka",
+        "date": "03/28/2020",
+        "description": "Sri Lanka reports its first coronavirus death."
+    },
+    {
+        "country": "New Zealand",
+        "date": "03/28/2020",
+        "description": "New Zealand reports its first coronavirus death."
+    },
+    {
+        "country": "Global",
+        "date": "03/28/2020",
+        "description": "Global deaths surpass 30,000. "
+    },
+    {
+        "country": "Bolivia",
+        "date": "03/29/2020",
+        "description": "Bolivia reports its first coronavirus death."
+    },
+    {
+        "country": "Uruguay",
+        "date": "03/29/2020",
+        "description": "Uruguay reports its first coronavirus death."
+    },
+    {
+        "country": "Syria",
+        "date": "03/29/2020",
+        "description": "Syria reports its first coronavirus death."
+    },
+    {
+        "country": "Nigeria",
+        "date": "03/29/2020",
+        "description": "Nigeria orders the cessation of movement in Lagos and Abuja."
+    },
+    {
+        "country": "United States",
+        "date": "03/29/2020",
+        "description": "The United States passes 140,000 coronavirus cases—more than any other country in the world."
+    },
+    {
+        "country": "Netherlands",
+        "date": "03/29/2020",
+        "description": "The Netherlands passes 10,000 coronavirus cases."
+    },
+    {
+        "country": "China",
+        "date": "03/29/2020",
+        "description": "Hubei province reopens domestic flights."
+    },
+    {
+        "country": "United States",
+        "date": "03/29/2020",
+        "description": "President Trump extends social distancing guidelines until April 30."
+    },
+    {
+        "country": "United States",
+        "date": "03/30/2020",
+        "description": "President Trump announces more than 1 million Americans have been tested for coronavirus."
+    },
+    {
+        "country": "Mexico",
+        "date": "03/30/2020",
+        "description": "Mexico declares a health emergency in response to its growing coronavirus death toll."
+    },
+    {
+        "country": "Belarus",
+        "date": "03/31/2020",
+        "description": "Belarus reports its first coronavirus death."
+    },
+    {
+        "country": "El Savador",
+        "date": "03/31/2020",
+        "description": "El Savador reports its first coronavirus death."
+    },
+    {
+        "country": "China",
+        "date": "03/31/2020",
+        "description": "China reports 48 new cases of the virus, all of which are imported."
+    },
+    {
+        "country": "United States",
+        "date": "03/31/2020",
+        "description": "The United States unveils a model which project that 100,000 Americans could die from the coronavirus."
+    },
+    {
+        "country": "Spain",
+        "date": "04/01/2020",
+        "description": "Spain passes 100,000 coronavirus cases."
+    },
+    {
+        "country": "United Kingdom",
+        "date": "04/01/2020",
+        "description": "Wimbledon Tennis Tournament canceled for the first time since World War Two."
+    },
+    {
+        "country": "Global",
+        "date": "04/01/2020",
+        "description": "The United Nations postpones its climate conference, originally scheduled to take place in November."
+    },
+    {
+        "country": "Italy",
+        "date": "04/01/2020",
+        "description": "Italy announces it will extend its lockdown until April 13."
+    },
+    {
+        "country": "Austria",
+        "date": "04/01/2020",
+        "description": "Unemployment numbers in Austria reach their highest figure since World War Two."
+    },
+    {
+        "country": "Global",
+        "date": "04/01/2020",
+        "description": "The World Bank estimates the coronavirus pandemic could push 11 million people into poverty."
+    },
+    {
+        "country": "Global",
+        "date": "04/02/2020",
+        "description": "Global coronavirus cases pass the one million mark; deaths exceed 50,000."
+    },
+    {
+        "country": "United States",
+        "date": "04/02/2020",
+        "description": "Almost 91 percent of Americans are ordered to stay at home."
+    },
+    {
+        "country": "United States",
+        "date": "04/02/2020",
+        "description": "The White House encourages all Americans to wear masks in public."
+    },
+    {
+        "country": "United States",
+        "date": "04/02/2020",
+        "description": "6.6 million Americans file for unemployment over the course of the last week, bringing the total number of unemployment claims to over 10 million."
+    },
+    {
+        "country": "Peru,Panama",
+        "date": "04/02/2020",
+        "description": "Peru and Panama implement gender-based quarantines to help curb the spread of coronavirus."
+    },
+    {
+        "country": "Thailand",
+        "date": "04/02/2020",
+        "description": "Thailand announces a nationwide curfew."
+    },
+    {
+        "country": "Saudi Arabia",
+        "date": "04/02/2020",
+        "description": "Saudi Arabia imposes a 24-hour curfew on Mecca and Medina, the two holiest cities in Islam."
+    },
+    {
+        "country": "China",
+        "date": "04/03/2020",
+        "description": "China advises foreign diplomats to stay out of Beijing until May 15."
+    },
+    {
+        "country": "Libya",
+        "date": "04/03/2020",
+        "description": "Libya reports its first coronavirus death."
+    },
+    {
+        "country": "United States",
+        "date": "04/03/2020",
+        "description": "U.S. President Donald Trump invokes the Defense Productions Act to halt the export of masks and other personal protection equipment."
+    },
+    {
+        "country": "United States",
+        "date": "04/03/2020",
+        "description": "The United States confirms 32,000 new cases in one day, setting a new record for the largest jump in daily cases."
+    },
+    {
+        "country": "Turkey",
+        "date": "04/04/2020",
+        "description": "Turkey requires all residents to wear face mask in public."
+    },
+    {
+        "country": "Dubai",
+        "date": "04/04/2020",
+        "description": "Dubai imposes a two-week lockdown."
+    },
+    {
+        "country": "United States",
+        "date": "04/04/2020",
+        "description": "Without scientific evidence, President Trump endorses malaria drug, hydroxychloroquine, as an effective coronavirus treatment."
+    },
+    {
+        "country": "Haiti",
+        "date": "04/05/2020",
+        "description": "Haiti reports its first coronavirus death."
+    },
+    {
+        "country": "China",
+        "date": "04/05/2020",
+        "description": "China sees an increase in asymptomatic coronavirus cases."
+    },
+    {
+        "country": "United States",
+        "date": "04/05/2020",
+        "description": "The United States reports 1,300 coronavirus deaths in one day, its highest daily spike."
+    },
+    {
+        "country": "Spain",
+        "date": "04/05/2020",
+        "description": "Spain reports a decrease in the number of new coronavirus cases for its third consecutive day."
+    },
+    {
+        "country": "Global",
+        "date": "04/05/2020",
+        "description": "The CDC begins testing blood for coronavirus immunity."
+    },
+    {
+        "country": "Libya",
+        "date": "04/05/2020",
+        "description": "Former Libya Prime Minister Mahmoud Jibril dies from coronavirus."
+    },
+    {
+        "country": "United States",
+        "date": "04/05/2020",
+        "description": "A tiger at the Bronx Zoo in New York tests positive for coronavirus. "
+    },
+    {
+        "country": "United States",
+        "date": "04/06/2020",
+        "description": "United States death toll passes 10,000."
+    },
+    {
+        "country": "Chile",
+        "date": "04/06/2020",
+        "description": "Chile mandates that everyone use a face mask on public and paid private transportation."
+    },
+    {
+        "country": "United Kingdom",
+        "date": "04/06/2020",
+        "description": "The Open Golf Championship is cancelled for the first time since World War Two."
+    },
+    {
+        "country": "Iran",
+        "date": "04/06/2020",
+        "description": "Iran passes 60,000 coronavirus cases, the highest in the Middle East."
+    },
+    {
+        "country": "Panama",
+        "date": "04/06/2020",
+        "description": "A third passenger on the Coral Princess cruise ship has died."
+    },
+    {
+        "country": "United Kingdom",
+        "date": "04/07/2020",
+        "description": "U.K. Prime Minister Boris Johnson moved to intensive care unit."
+    },
+    {
+        "country": "Egypt",
+        "date": "04/07/2020",
+        "description": "Egypt announces it will keep mosques closed during Ramadan."
+    },
+    {
+        "country": "France",
+        "date": "04/07/2020",
+        "description": "Paris announces it will ban daytime outdoor exercising."
+    },
+    {
+        "country": "Japan",
+        "date": "04/07/2020",
+        "description": "Japan declares a state of emergency."
+    },
+    {
+        "country": "China",
+        "date": "04/07/2020",
+        "description": "China reports no new coronavirus deaths for the first time since January."
+    },
+    {
+        "country": "Global",
+        "date": "04/08/2020",
+        "description": "Global coronavirus cases surpass 1.5 million."
+    },
+    {
+        "country": "Singapore",
+        "date": "04/08/2020",
+        "description": "Singapore bans all public and private social gatherings."
+    },
+    {
+        "country": "China",
+        "date": "04/08/2020",
+        "description": "China lifts its lockdown on Wuhan."
+    },
+    {
+        "country": "United States",
+        "date": "04/09/2020",
+        "description": "6.6 million Americans file for unemployment claims in the past week, bringing the total number of unemployment claims filed in the past three weeks to over 17 million."
+    },
+    {
+        "country": "United Kingdom",
+        "date": "04/09/2020",
+        "description": "U.K. Prime Minister Boris Johnson is discharged from intensive care."
+    },
+    {
+        "country": "Spain",
+        "date": "04/10/2020",
+        "description": "Spain sees a flattening of the curve. A slowdown in the rate of infections and deaths means the government is considering lifting some of the heavy lockdown restrictions."
+    },
+    {
+        "country": "United States",
+        "date": "04/10/2020",
+        "description": "New York City reports more coronavirus cases than any country."
+    },
+    {
+        "country": "Global",
+        "date": "04/10/2020",
+        "description": "World coronavirus deaths surpass 100,000."
+    },
+    {
+        "country": "United States,Italy",
+        "date": "04/11/2020",
+        "description": "The United States surpasses Italy for having the most confirmed coronavirus deaths in the world."
+    },
+    {
+        "country": "United States",
+        "date": "04/11/2020",
+        "description": "The U.S. Internal Revenue Services deposits its first round of stimulus checks to Americans."
+    },
+    {
+        "country": "United States",
+        "date": "04/11/2020",
+        "description": "Over 550 crew members aboard the USS Theodore Roosevelt test positive for coronavirus."
+    },
+    {
+        "country": "South Korea",
+        "date": "04/11/2020",
+        "description": "South Korea introduces a tracking bracelet to monitor citizens’ adhesion to quarantine rules."
+    },
+    {
+        "country": "Yemen",
+        "date": "04/11/2020",
+        "description": "Yemen reports its first coronavirus case."
+    },
+    {
+        "country": "China",
+        "date": "04/12/2020",
+        "description": "Wet markets reopen in Wuhan, China."
+    },
+    {
+        "country": "Global",
+        "date": "04/14/2020",
+        "description": "The International Monetary Fund warns that the world is facing its worst economic downturn as coronavirus lockdowns continue to wreck havoc on the global economy."
+    },
+    {
+        "country": "Austria",
+        "date": "04/14/2020",
+        "description": "Austria reopens thousands of small shops, becoming one of the first European countries to loosen lockdown measures in response to the coronavirus."
+    },
+    {
+        "country": "United States",
+        "date": "04/14/2020",
+        "description": "New York City’s coronavirus death toll passes 10,000-- a figure larger than any European country’s."
+    },
+    {
+        "country": "United States",
+        "date": "04/14/2020",
+        "description": "President Donald Trump delays thousands of stimulus checks in an unprecedented move to mandate that his name appear on the check."
+    },
+    {
+        "country": "United States",
+        "date": "04/14/2020",
+        "description": "Wyoming confirms its first coronavirus death, bringing the total to all 50 states having reported coronavirus fatalities."
+    },
+    {
+        "country": "Global",
+        "date": "04/14/2020",
+        "description": "Hydroxychloroquine is deemed ineffective as a treatment against the coronavirus."
+    },
+    {
+        "country": "Germany",
+        "date": "04/15/2020",
+        "description": "Germany announces plans to reopen their economy starting April 20. It also announces plans to resume in-person schooling on May 3."
+    },
+    {
+        "country": "United States",
+        "date": "04/15/2020",
+        "description": "President Trump delays funding to the WHO."
+    },
+    {
+        "country": "Japan",
+        "date": "04/16/2020",
+        "description": "Japan declares a nation-wide state of emergency. Prime Minister Shinzo Abe approves a budget to include a ¥100,000 handout to all citizens regardless of income."
+    },
+    {
+        "country": "United States",
+        "date": "04/16/2020",
+        "description": "An additional 5.2 million Americans file for unemployment over the past week, bringing the total number to 22 million Americans filing since President Donald J. Trump declared a state of emergency four weeks ago. This job loss is comparable to Great Depression statistics."
+    },
+    {
+        "country": "United States",
+        "date": "04/16/2020",
+        "description": "President Donald J. Trump unveils a set of guidelines for opening up America giving liberty to state Governors to choose whether they want lift restrictions statewide or on a county-by-county basis."
+    },
+    {
+        "country": "China",
+        "date": "04/17/2020",
+        "description": "China reports its first economic contraction in a decade. It’s GDP shrank 6.8 percent during the first three months of 2020."
+    },
+    {
+        "country": "United States",
+        "date": "04/17/2020",
+        "description": "Texas Governor, Greg Abbott, makes an executive decision to begin reopening Texas beginning in May. This decision makes Texas one of the first states to loosen restrictions."
+    },
+    {
+        "country": "Nigeria",
+        "date": "04/17/2020",
+        "description": "The Nigerian President’s Chief of Staff, Abba Kyari, dies after contracting coronavirus."
+    },
+    {
+        "country": "United States",
+        "date": "04/17/2020",
+        "description": "U.S. Vice President, Mike Pence declares that the country has enough tests for a phase one reopening."
+    },
+    {
+        "country": "United States",
+        "date": "04/18/2020",
+        "description": "American conservatives protest the country’s lockdown measures."
+    },
+    {
+        "country": "United States",
+        "date": "04/19/2020",
+        "description": "U.S. Secretary of Defense, Mark T. Esper extends the Department of Defense travel ban until June 30 amid coronavirus concerns. The original ban was set to expire on May 12."
+    },
+    {
+        "country": "United States",
+        "date": "04/19/2020",
+        "description": "Orthodox churches in Georgia host Easter masses for hundreds of parishioners despite the country declaring a state of emergency."
+    },
+    {
+        "country": "Chile",
+        "date": "04/19/2020",
+        "description": "Chile becomes the first country to issue 'immunity cards' to people who have fully recovered from the coronavirus."
+    },
+    {
+        "country": "Israel",
+        "date": "04/19/2020",
+        "description": "Israel’s coronavirus rate of recovery begins to outpace its death rate."
+    },
+    {
+        "country": "Israel",
+        "date": "04/19/2020",
+        "description": "Israel begins to ease up on lockdown restrictions, including allowing the opening up of small stores, resuming small group prayer, and introducing fines for not wearing a mask in public."
+    },
+    {
+        "country": "Iran",
+        "date": "04/19/2020",
+        "description": "Iran begins to reopen its economy starting with major shopping centers in Tehran."
+    },
+    {
+        "country": "United States",
+        "date": "04/19/2020",
+        "description": "President Donald J. Trump announces he will temporarily suspend immigration to the United States for 60 days by executive order."
+    },
+    {
+        "country": "United States",
+        "date": "04/19/2020",
+        "description": "U.S. Hospitals, including the esteemed Mayo Clinic and Cleveland Clinic, announce they will reopen for elective surgeries and other non-emergency procedures."
+    },
+
+
+    {
+        "country": "Israel",
+        "date": "04/20/2020",
+        "description": "Israel’s coronavirus rate of recovery begins to outpace its death rate."
+    },
+    {
+        "country": "Israel",
+        "date": "04/20/2020",
+        "description": "Israel begins to ease up on lockdown restrictions, including allowing the opening up of small stores, resuming small group prayer, and introducing fines for not wearing a mask in public."
+    },
+    {
+        "country": "Iran",
+        "date": "04/20/2020",
+        "description": "Iran begins to reopen its economy starting with major shopping centers in Tehran."
+    },
+    {
+        "country": "United States",
+        "date": "04/20/2020",
+        "description": "President Donald J. Trump announces he will temporarily suspend immigration to the United States for 60 days by executive order."
+    },
+    {
+        "country": "United States",
+        "date": "04/20/2020",
+        "description": "U.S. Hospitals, including the esteemed Mayo Clinic and Cleveland Clinic, announce they will reopen for elective surgeries and other non-emergency procedures."
+    },
+    {
+        "country": "United States",
+        "date": "04/21/2020",
+        "description": "Congressional leaders and the White House strike a deal to deliver $480 million in relief funds to small businesses and hospitals."
+    },
+    {
+        "country": "United States",
+        "date": "04/21/2020",
+        "description": "President Donald J. Trump effectively suspends immigration to the United States. Green card recipients will be blocked from moving to the country but temporary workers on nonimmigrant visas will be allowed in."
+    },
+    {
+        "country": "Global",
+        "date": "04/22/2020",
+        "description": "Hydroxychloroquine is deemed ineffective as a treatment against the coronavirus."
+    },
+    {
+        "country": "Germany",
+        "date": "04/22/2020",
+        "description": "Germany approves first trials for a coronavirus vaccine."
+    },
+    {
+        "country": "Netherlands",
+        "date": "04/22/2020",
+        "description": "The Netherlands extends ban on major public gatherings until September 1."
+    },
+    {
+        "country": "China",
+        "date": "04/23/2020",
+        "description": "China pledges an additional $30 million in funding to the WHO."
+    },
+    {
+        "country": "United States",
+        "date": "04/23/2020",
+        "description": "The White House announces it has enough test kits for a phase one reopening."
+    },
+    {
+        "country": "South Africa",
+        "date": "04/23/2020",
+        "description": "South Africa announces it will begin phase one on reopening on May 1."
+    },
+    {
+        "country": "Indonesia",
+        "date": "04/23/2020",
+        "description": "Indonesia announces it will ban domestic air and sea travel until early June. This coincides with the holy month of Ramadan."
+    },
+    {
+        "country": "United States",
+        "date": "04/23/2020",
+        "description": "President Donald J. Trump erroneously recommends ingesting disinfectants to fight coronavirus. Lysol and other companies warn against this practice."
+    },
+    {
+        "country": "Ecuador",
+        "date": "04/24/2020",
+        "description": "The number of coronavirus cases in Ecuador more than double after delayed testing results were released."
+    },
+    {
+        "country": "United States",
+        "date": "04/24/2020",
+        "description": "The United States’ coronavirus death toll passes 50,000."
+    },
+    {
+        "country": "United States",
+        "date": "04/24/2020",
+        "description": "The Federal Drug Administration warns against the use of hydroxychloroquine, an anti-malarial drug touted by President Donald J. Trump as a coronavirus treatment."
+    },
+    {
+        "country": "Pakistan",
+        "date": "04/24/2020",
+        "description": "Pakistan extends its lockdown until May 9."
+    },
+    {
+        "country": "Global",
+        "date": "04/25/2020",
+        "description": "The World Health Organization reports that there is still no evidence that recovered patients are immune from the coronavirus."
+    },
+    {
+        "country": "United States",
+        "date": "04/25/2020",
+        "description": "Over a quarter of the world’s coronavirus deaths are in the United States."
+    },
+    {
+        "country": "Italy,Spain",
+        "date": "04/26/2020",
+        "description": "Italy and Spain unveil plans to ease up on lockdown restrictions beginning on May 4."
+    },
+    {
+        "country": "United States",
+        "date": "04/27/2020",
+        "description": "Famotidine, a common over-the-counter heartburn medication, begins testing trials in New York City as a possible coronavirus treatment."
+    },
+    {
+        "country": "United States",
+        "date": "04/28/2020",
+        "description": "The United States records over one million coronavirus cases."
+    },
+    {
+        "country": "Global",
+        "date": "04/28/2020",
+        "description": "A new study reports that cancer patients are nearly three times more likely to die of covid-19 than non-cancer patients."
+    },
+    {
+        "country": "Russia",
+        "date": "05/02/2020",
+        "description": "Moscow’s Mayor announced that 2 percent of the city’s population tested positive for the coronavirus."
+    },
+    {
+        "country": "United States",
+        "date": "05/03/2020",
+        "description": "In the United States, Virginia reports its first coronavirus death. Total deaths in the United States are 65,464."
+    },
+    {
+        "country": "Global",
+        "date": "05/05/2020",
+        "description": "Number of cases globally surpasses 3.5 million."
+    },
+    {
+        "country": "Thailand",
+        "date": "05/05/2020",
+        "description": "Thailand reports one new coronavirus case and no new deaths, marking a downward trend of transmission."
+    },
+    {
+        "country": "United States",
+        "date": "05/05/2020",
+        "description": "Trump administration considers phasing out coronavirus task force."
+    },
+
+
+
+
+    {
+        "country": "United States",
+        "date": "05/07/2020",
+        "description": "Carlos Ernesto Escobar becomes the first person to die from the coronavirus while in U.S. immigration custody."
+    },
+    {
+        "country": "United States",
+        "date": "05/09/2020",
+        "description": "Three children in New York die of a mysterious toxic-shock inflammation syndrome linked to the coronavirus. Another 73 are infected."
+    },
+    {
+        "country": "Global",
+        "date": "05/10/2020",
+        "description": "The global total of cases reaches 4 million."
+    },
+    {
+        "country": "France",
+        "date": "05/11/2020",
+        "description": "France begins easing lockdown restrictions."
+    },
+    {
+        "country": "United States",
+        "date": "05/11/2020",
+        "description": "Two White House staff members test positive for the virus."
+    },
+    {
+        "country": "United States",
+        "date": "05/11/2020",
+        "description": "Hydroxychloroquine is proven ineffective as a treatment against COVID-19."
+    },
+    {
+        "country": "United States",
+        "date": "05/18/2020",
+        "description": "President Donald Trump announces he is taking hydroxychloroquine."
+    },
+    {
+        "country": "China",
+        "date": "05/19/2020",
+        "description": "China reports 6 new coronavirus cases, including one in Wuhan."
+    },
+    {
+        "country": "China",
+        "date": "05/22/2020",
+        "description": "China reports no new domestic cases."
+    },
+    {
+        "country": "Global",
+        "date": "05/27/2020",
+        "description": "The United Nations reports that the coronavirus puts 14 million people at risk of missing meals in Latin America and the Caribbean."
+    },
+    {
+        "country": "United States",
+        "date": "05/27/2020",
+        "description": "Coronavirus deaths in the United States pass 100,000."
+    },
+    {
+        "country": "United States",
+        "date": "05/27/2020",
+        "description": "House democrats vote remotely for the first time."
+    },
+    {
+        "country": "France",
+        "date": "05/27/2020",
+        "description": "France revokes approval of hydroxychloroquine as a potential treatment for the virus."
+    },
+    {
+        "country": "Global",
+        "date": "05/28/2020",
+        "description": "WHO Director announces COVID-19 pandemic is responsible for 159,000 excess deaths in 24 European countries since early March."
+    },
+    {
+        "country": "Philippines",
+        "date": "06/01/2020",
+        "description": "The Philippines eases lockdown measures."
+    },
+    {
+        "country": "France",
+        "date": "06/02/2020",
+        "description": "France reopens its beaches, cultural, and sporting centers."
+    },
+    {
+        "country": "Italy",
+        "date": "06/02/2020",
+        "description": "Italy reopens its borders to tourists."
+    },
+    {
+        "country": "Spain",
+        "date": "06/03/2020",
+        "description": "Spain extends State of Emergency until June 21."
+    },
+    {
+        "country": "Jordan",
+        "date": "06/05/2020",
+        "description": "Jordan reopens mosques for service."
+    },
+    {
+        "country": "United States",
+        "date": "06/05/2020",
+        "description": "Donald Trump announces he will ask Congress for extra economic stimulus."
+    },
+    {
+        "country": "Brazil",
+        "date": "06/07/2020",
+        "description": "Brazil's health ministry removes coronavirus data from official website."
+    },
+    {
+        "country": "China",
+        "date": "06/07/2020",
+        "description": "China publishes a white paper, defending that it did not try to conceal the virus."
+    },
+    {
+        "country": "New Zealand",
+        "date": "06/08/2020",
+        "description": "New Zealand lifts all lockdown restrictions, declaring the country virus-free."
+    },
+    {
+        "country": "India",
+        "date": "06/08/2020",
+        "description": "India lifts lockdown restrictions, despite fears of a surge."
+    },
+    {
+        "country": "United States",
+        "date": "06/08/2020",
+        "description": "Experts warn that up to 540 Americans can die each day as a result of the ongoing protests."
+    },
+    {
+        "country": "United States",
+        "date": "06/08/2020",
+        "description": "New York City begins phase I reopening."
+    },
+    {
+        "country": "Global",
+        "date": "06/08/2020",
+        "description": "WHO says pandemic 'far from over' as daily cases hit record high."
+    },
+    {
+        "country": "Global",
+        "date": "06/08/2020",
+        "description": "Lockdown measures are estimated to have prevented 500 million COVID-19 related deaths worldwide."
+    },
+    {
+        "country": "Tanzania",
+        "date": "06/08/2020",
+        "description": "Tanzanian President Magufuli declares Tanzania free of coronavirus, amid concerns of underreporting from WHO."
+    },
+    {
+        "country": "South Africa",
+        "date": "06/08/2020",
+        "description": "South Africa sees rapid increase in coronavirus numbers, recording over 50,000 confirmed cases in past two weeks."
+    },
+    {
+        "country": "Brazil",
+        "date": "06/09/2020",
+        "description": "Brazil resumes reporting data on country's cases after supreme court order."
+    },
+    {
+        "country": "United States",
+        "date": "06/09/2020",
+        "description": "Since Memorial Day in the United States, nine states report increase in hospitalizations due to coronavirus."
+    },
+    {
+        "country": "Global",
+        "date": "06/09/2020",
+        "description": "WHO says earlier statement calling asymptomatic transmission of coronavirus ‘very rare’ and a misunderstanding."
+    },
+    {
+        "country": "United States",
+        "date": "06/10/2020",
+        "description": "The United States sees rises in confirmed cases across 19 states, 24 states trend downward, and 7 remain the same."
+    },
+    {
+        "country": "Germany",
+        "date": "06/10/2020",
+        "description": "Germany announces extended travel warnings for non-European nations through August, travel ban for EU members to be lifted June 15."
+    },
+    {
+        "country": "Libya",
+        "date": "06/10/2020",
+        "description": "Health authorities in Libya report spikes in coronavirus cases, linked to repatriation efforts."
+    },
+    {
+        "country": "France",
+        "date": "06/10/2020",
+        "description": "France reports decline in daily death toll, but a rise in confirmed cases."
+    },
+    {
+        "country": "United States",
+        "date": "06/11/2020",
+        "description": "As the United States exceeds 2 million confirmed coronavirus cases, new model suggests spikes in death toll in September and later months."
+    },
+    {
+        "country": "United States",
+        "date": "06/11/2020",
+        "description": "U.S. farms and packing plants report an increase in cases among workers."
+    },
+    {
+        "country": "Russia",
+        "date": "06/11/2020",
+        "description": "Confirmed coronavirus cases in Russia pass 500,000."
+    },
+    {
+        "country": "United States",
+        "date": "06/11/2020",
+        "description": "Biotech company Moderna to begin final stage of trial for coronavirus vaccine in July on 30,000 participants."
+    },
+    {
+        "country": "India",
+        "date": "06/12/2020",
+        "description": "India overtakes the United Kingdom to become the fourth worst-hit nation."
+    },
+    {
+        "country": "United Kingdom",
+        "date": "06/12/2020",
+        "description": "The United Kingdom reports 36 deaths, its lowest daily death toll since March."
+    },
+    {
+        "country": "China",
+        "date": "06/15/2020",
+        "description": "China reports an additional 36 confirmed coronavirus cases in Beijing for a total of 79 since its first confirmed case in 56 days was reported on June 11."
+    },
+    {
+        "country": "China",
+        "date": "06/15/2020",
+        "description": "Beijing imposes lockdown measures in 21 neighborhoods as rampant testing procedures undergo in Beijing."
+    },
+    {
+        "country": "China",
+        "date": "06/15/2020",
+        "description": "Cases in new Beijing cluster have reportedly spread to Liaoning and Hebei provinces in China."
+    },
+    {
+        "country": "United States",
+        "date": "06/15/2020",
+        "description": "The United States surpasses 115,000 coronavirus deaths as new cases increase across more than 12 states."
+    },
+    {
+        "country": "United States",
+        "date": "06/15/2020",
+        "description": "The FDA revokes emergency use authorization for hydroxychloroquine."
+    },
+    {
+        "country": "United Kingdom",
+        "date": "06/15/2020",
+        "description": "The Imperial College of London begins a coronavirus vaccine trial."
+    },
+    {
+        "country": "France,Spain,United Kingdom",
+        "date": "06/15/2020",
+        "description": "France lifts travel restrictions for European Union and Schengen citizens. Restrictions stay in place for Spain and the United Kingdom."
+    },
+    {
+        "country": "Global",
+        "date": "06/16/2020",
+        "description": "The UN's Latin America and Caribbean agency warns of rising hunger in the region due to COVID-19's effect on food systems and the region's economies."
+    },
+    {
+        "country": "United States",
+        "date": "06/16/2020",
+        "description": "Nursing and care facilities are reported to account for at least 40 percent of all coronavirus deaths in the United States."
+    },
+    {
+        "country": "United States",
+        "date": "06/17/2020",
+        "description": "New York Governor Andrew Cuomo announces final daily COVID-19 briefing for Friday."
+    },
+    {
+        "country": "Peru",
+        "date": "06/17/2020",
+        "description": "Peru surpasses 240,000 coronavirus cases, passing Italy's total number of cases."
+    },
+    {
+        "country": "India",
+        "date": "06/18/2020",
+        "description": "India eases lockdown measures despite rises in confirmed cases and deaths."
+    },
+    {
+        "country": "Czech Republic",
+        "date": "06/19/2020",
+        "description": "The Czech Republic reports its largest increase in daily cases since April."
+    },
+    {
+        "country": "China",
+        "date": "06/20/2020",
+        "description": "WHO officials announce that the cluster of cases in Beijing was traced to a European coronavirus strain, not a market-based cross-species infection."
+    },
+    {
+        "country": "United States",
+        "date": "06/20/2020",
+        "description": "Florida and South Carolina report sharp spikes in new cases, breaking single-day records for third day in a row."
+    },
+    {
+        "country": "Italy",
+        "date": "06/21/2020",
+        "description": "Italy's Civil Protection Department sees its lowest increase in daily cases since the start of the pandemic."
+    },
+    {
+        "country": "Spain",
+        "date": "06/21/2020",
+        "description": "Spain lifts state of emergency, allowing tourists from most E.U. countries."
+    },
+    {
+        "country": "Global",
+        "date": "06/21/2020",
+        "description": "Potential strain on worldwide glass supply chain poses delays to coronavirus vaccine development."
+    },
+    {
+        "country": "United States",
+        "date": "06/22/2020",
+        "description": "Citing pandemic concerns, President Trump issues restrictions on immigration  to the United States, suspending most H1-B, H2-B, and H-4 visas."
+    },
+    {
+        "country": "United States",
+        "date": "06/22/2020",
+        "description": "More than 20 public health officials in the United States have resigned or left their posts in recent weeks."
+    },
+    {
+        "country": "Liberia",
+        "date": "06/22/2020",
+        "description": "In response to exponential rises in coronavirus cases, Liberia extends its state of emergency."
+    },
+    {
+        "country": "South Korea",
+        "date": "06/22/2020",
+        "description": "South Korea reports a second wave of coronavirus infections around capital city, related to a May holiday."
+    },
+    {
+        "country": "China",
+        "date": "06/22/2020",
+        "description": "Beijing outbreak disrupts supply chain across meat, poultry, and other food industries."
+    },
+
+
+
+    {
+        "country": "Global",
+        "date": "06/23/2020",
+        "description": "Coronavirus-related deaths in Latin America pass 100,000."
+    },
+    {
+        "country": "South Africa",
+        "date": "06/23/2020",
+        "description": "The first COVID-19 vaccine trial in South Africa begins. This is the first vaccine trial on the continent."
+    },
+    {
+        "country": "Germany",
+        "date": "06/23/2020",
+        "description": "Germany reimposes a regional lockdown after cases linked to a meatpacking factory pass 1,500."
+    },
+    {
+        "country": "Saudi Arabia",
+        "date": "06/23/2020",
+        "description": "Saudi Arabia restricts Hajj pilgrims, the first time Muslim people will be barred this rite in modern times."
+    },
+    {
+        "country": "United States",
+        "date": "06/23/2020",
+        "description": "FDA warns against the use of hand sanitizers containing methanol, a toxic substance."
+    },
+    {
+        "country": "United States",
+        "date": "06/24/2020",
+        "description": "Twenty-six U.S. states see a rise in coronavirus cases since easing up on lockdown restrictions."
+    },
+    {
+        "country": "United States",
+        "date": "06/24/2020",
+        "description": "New York, New Jersey, and Connecticut require visitors from 'hot-spot' states to self-quarantine for fourteen days."
+    },
+    {
+        "country": "United States",
+        "date": "06/24/2020",
+        "description": "The United States reports its highest daily total of new coronavirus cases."
+    },
+    {
+        "country": "India",
+        "date": "06/24/2020",
+        "description": "India reports over 15,000 new coronavirus infections, its highest single-day rise in cases."
+    },
+    {
+        "country": "South Africa",
+        "date": "06/24/2020",
+        "description": "Trials for a COVID-19 vaccine begin in South Africa."
+    },
+    {
+        "country": "United States",
+        "date": "06/25/2020",
+        "description": "U.S. CDC estimates that more than 20 million individuals may have had coronavirus in the United States thus far."
+    },
+    {
+        "country": "United States",
+        "date": "06/26/2020",
+        "description": "The United States sees its highest daily increase in confirmed coronavirus cases."
+    },
+    {
+        "country": "United States",
+        "date": "06/26/2020",
+        "description": "Over half of U.S. states report record numbers of new daily cases."
+    },
+    {
+        "country": "United States",
+        "date": "06/27/2020",
+        "description": "Twelve U.S. states slow reopening measures as new cases increase across the country."
+    },
+    {
+        "country": "Czech Republic",
+        "date": "06/28/2020",
+        "description": "The Czech Republic reports its highest single-day increase in new cases since April 8."
+    },
+    {
+        "country": "Global",
+        "date": "06/28/2020",
+        "description": "According to the Pan American Health Organization, cases in Latin America have tripled in June, surpassing two million infections."
+    },
+    {
+        "country": "Kazakhstan",
+        "date": "06/29/2020",
+        "description": "Kazakhstan reimposes lockdown measures after surge in cases linked to reopening measures."
+    },
+    {
+        "country": "Global",
+        "date": "06/29/2020",
+        "description": "Global coronavirus death toll surpasses 500,000."
+    },
+    {
+        "country": "United States",
+        "date": "06/30/2020",
+        "description": "The United States acquires over 500,000 doses of remdesivir from Gilead, all of its production for the month of July and 90 percent of August and September."
+    },
+    {
+        "country": "Burundi",
+        "date": "07/01/2020",
+        "description": "Burundi's newly elected president shifts from predecessor's stance on the coronavirus, promising steps to combat its spread."
+    },
+    {
+        "country": "Brazil",
+        "date": "07/01/2020",
+        "description": "Brazil sees 12,000 new coronavirus cases in a single day; Rio de Janeiro begins opening."
+    },
+    {
+        "country": "United States",
+        "date": "07/01/2020",
+        "description": "Texas governor, Greg Abbott, mandates face masks in public."
+    },
+    {
+        "country": "United States",
+        "date": "07/02/2020",
+        "description": "Florida reports over 10,000 new coronavirus cases, marking a new single-day record for the state."
+    },
+    {
+        "country": "India",
+        "date": "07/02/2020",
+        "description": "India announces reopening measures despite surpassing 600,000 coronavirus cases and 17,834 deaths."
+    },
+    {
+        "country": "Switzerland, United States, Brazil, Russia",
+        "date": "07/02/2020",
+        "description": "Switzerland announces self-isolation requirements for travelers from twenty-nine countries including the United States, Brazil, and Russia."
+    },
+    {
+        "country": "Japan",
+        "date": "07/02/2020",
+        "description": "Tokyo confirms over one hundred new coronavirus cases, its highest single-day count since May."
+    },
+    {
+        "country": "United States",
+        "date": "07/03/2020",
+        "description": "The United States reports over 55,000 new coronavirus cases, marking a new daily global record."
+    },
+    {
+        "country": "United Kingdom",
+        "date": "07/03/2020",
+        "description": "The United Kingdom announces an end to travel restrictions from fifty countries, not including the United States."
+    },
+    {
+        "country": "France",
+        "date": "07/03/2020",
+        "description": "French authorities open investigations against former Prime Minister Edouard Philippe for his handling of the COVID-19 pandemic."
+    },
+    {
+        "country": "Australia",
+        "date": "07/04/2020",
+        "description": "Melbourne, Australia tightens restrictions on twelve suburbs and imposes \"hard lockdowns\" on several apartment blocks as cases surge. The Australian Medical Association calls for a pause in easing COVID-19 restrictions until the situation in Melbourne stabilizes."
+    },
+    {
+        "country": "Japan",
+        "date": "07/04/2020",
+        "description": "New coronavirus cases in Tokyo increase by 131, governor urges residents to limit travel outside of the city."
+    },
+    {
+        "country": "Spain",
+        "date": "07/04/2020",
+        "description": "Over 200,000 people in Spain's Lleida province are ordered to lock down due to outbreaks in the region."
+    },
+    {
+        "country": "Global",
+        "date": "07/05/2020",
+        "description": "Scientists from over thirty countries call on WHO to direct attention to evidence suggesting airborne spread of coronavirus."
+    },
+    {
+        "country": "United States",
+        "date": "07/05/2020",
+        "description": "Florida and Texas report new single-day records for coronavirus cases."
+    },
+    {
+        "country": "Brazil",
+        "date": "07/06/2020",
+        "description": "Brazilian President Jair Bolsonaro tells supporters that his lungs are \"clean\" after undergoing a lung scan amid reports that he showed coronavirus symptoms."
+    },
+    {
+        "country": "Spain",
+        "date": "07/06/2020",
+        "description": "A Spanish government study involving over 61,000 participants finds that coronavirus antibodies decrease with time, falling below necessary levels for herd immunity."
+    },
+    {
+        "country": "United States",
+        "date": "07/06/2020",
+        "description": "California orders six additional counties to close indoor operations for restaurants, bars, and other businesses as coronavirus cases increase in the state."
+    },
+    {
+        "country": "India",
+        "date": "07/06/2020",
+        "description": "India overtakes Russia as the country with the third-most coronavirus cases."
+    },
+
+
+    {
+        "country": "Brazil",
+        "date": "07/07/2020",
+        "description": "Brazilian President Bolsonaro tests positive for coronavirus."
+    },
+    {
+        "country": "United States",
+        "date": "07/07/2020",
+        "description": "President Donald Trump formally notifies Congress and the United Nations of U.S. withdrawal from WHO."
+    },
+    {
+        "country": "Global",
+        "date": "07/07/2020",
+        "description": "WHO acknowledges evidence suggesting airborne coronavirus transmission and cautions need for further assessment."
+    },
+    {
+        "country": "Global",
+        "date": "07/07/2020",
+        "description": "Coronavirus cases in the Americas reach 5.9 million, with half in Latin America and the Caribbean."
+    },
+    {
+        "country": "Kenya",
+        "date": "07/07/2020",
+        "description": "Kenya announces schools will remain closed until 2021."
+    },
+    {
+        "country": "Global",
+        "date": "07/07/2020",
+        "description": "Africa Development Bank warns that an additional forty-nine million Africans could be pushed into extreme poverty by the pandemic and its aftermath, with West and Central Africa hit hardest."
+    },
+    {
+        "country": "Uzbekistan",
+        "date": "07/08/2020",
+        "description": "Uzbekistan announces a second lockdown for July 10, in response to cases surging in the nation."
+    },
+    {
+        "country": "Global",
+        "date": "07/08/2020",
+        "description": "Confirmed coronavirus cases in Africa surpass 500,000, but gaps in data and testing raise concerns about underreporting."
+    },
+    {
+        "country": "United States",
+        "date": "07/08/2020",
+        "description": "Intensive care units in hospitals across Florida and Arizona reach full capacity due to surges in coronavirus cases."
+    },
+    {
+        "country": "Iran",
+        "date": "07/08/2020",
+        "description": "Iran reports highest one-day death toll since the start of the pandemic, exceeding 12,000 total deaths."
+    },
+    {
+        "country": "Global",
+        "date": "07/09/2020",
+        "description": "Data from WHO and African governments show a 24 percent in increase in new coronavirus cases in Africa from the previous week."
+    },
+    {
+        "country": "Global",
+        "date": "07/09/2020",
+        "description": "WHO announces an Independent Panel for Pandemic Preparedness and Response (IPPR) to evaluate the world’s response to the COVID-19 pandemic."
+    },
+    {
+        "country": "Indonesia",
+        "date": "07/09/2020",
+        "description": "Indonesia reports its highest single-day increase in coronavirus cases linked to an outbreak at a military training facility."
+    },
+    {
+        "country": "Ghana",
+        "date": "07/09/2020",
+        "description": "Health workers in Ghana urge the government to provide PPE and other supplies to hospital systems to protect workers."
+    },
+    {
+        "country": "United States",
+        "date": "07/09/2020",
+        "description": "Single-day records are reported across four states in the United States."
+    },
+    {
+        "country": "Russia",
+        "date": "07/10/2020",
+        "description": "Revised data from Russia show a mortality rate in April and May nearly three times higher than previously reported."
+    },
+    {
+        "country": "United States",
+        "date": "07/10/2020",
+        "description": "The United States reports 63,247 new coronavirus cases, its highest single-day increase to date."
+    },
+    {
+        "country": "United States",
+        "date": "07/11/2020",
+        "description": "Louisiana mandates masks statewide amid rising cases and hospitalizations."
+    },
+    {
+        "country": "Australia",
+        "date": "07/11/2020",
+        "description": "Two Australian states report increases in cases linked to community transmission since the states reopened."
+    },
+    {
+        "country": "Argentina",
+        "date": "07/12/2020",
+        "description": "Argentina surpasses 100,000 coronavirus cases despite an ongoing lockdown in Buenos Aires."
+    },
+    {
+        "country": "United States",
+        "date": "07/12/2020",
+        "description": "Florida marks 15,300 new cases, the highest single-day increase of any U.S. state since the pandemic began."
+    },
+    {
+        "country": "South Africa",
+        "date": "07/12/2020",
+        "description": "South Africa reimposes a curfew and ban on alcohol sales to relieve burdens on hospitals amid rising coronavirus cases."
+    },
+    {
+        "country": "United States",
+        "date": "07/12/2020",
+        "description": "President Donald Trump makes his first public appearance wearing a face-mask."
+    },
+
+
+    {
+        "country": "United States",
+        "date": "07/13/2020",
+        "description": "New York City reports no new coronavirus deaths in a 24-hour period."
+    },
+    {
+        "country": "United States",
+        "date": "07/13/2020",
+        "description": "California's two largest public school districts, Los Angeles and San Diego, announce they will be online-only for the fall semester."
+    },
+    {
+        "country": "United States,Brazil",
+        "date": "07/13/2020",
+        "description": "WHO reports that the U.S. and Brazil made up half of the daily increase in coronavirus cases globally."
+    },
+    {
+        "country": "South Korea",
+        "date": "07/13/2020",
+        "description": "The Korea Centers for Disease Control and Prevention finds that one in three South Korean coronavirus patients showed improvements while on remdesivir."
+    },
+    {
+        "country": "Kazakhstan",
+        "date": "07/13/2020",
+        "description": "Kazakhstan extends its second lockdown through July and announces additional aid for citizens without income."
+    },
+
+
+    {
+        "country": "Global",
+        "date": "07/14/2020",
+        "description": "Global coronavirus cases increased by one million over the past five days."
+    },
+    {
+        "country": "Australia,Hong Kong,India",
+        "date": "07/14/2020",
+        "description": "Australia, Hong Kong, and India are among those imposing new restrictions amid increases in cases."
+    },
+    {
+        "country": "United States,Canada,Global",
+        "date": "07/14/2020",
+        "description": "Latin America and the Caribbean have recorded more coronavirus deaths than the United States and Canada."
+    },
+    {
+        "country": "Russia",
+        "date": "07/14/2020",
+        "description": "Russia reports 6,248 new cases."
+    },
+    {
+        "country": "Hong Kong",
+        "date": "07/14/2020",
+        "description": "Disneyland Hong Kong closes less than a month after reopening citing concerns for another surge of the virus."
+    },
+    {
+        "country": "United States",
+        "date": "07/14/2020",
+        "description": "Moderna, the first potential coronavirus vaccine tested in humans, is demonstrated to show a positive immune response."
+    },
+    {
+        "country": "United States",
+        "date": "07/14/2020",
+        "description": "The White House orders hospitals to bypass the CDC and send COVID-19 case data directly to Washington."
+    },
+    {
+        "country": "United States",
+        "date": "07/15/2020",
+        "description": "Single-day tallies for cases, hospitalizations, and deaths reach highs across several states including Florida, Oklahoma, and Mississippi."
+    },
+    {
+        "country": "South Africa",
+        "date": "07/15/2020",
+        "description": "South Africa is expected to surpass 300,000 coronavirus cases."
+    },
+    {
+        "country": "Belgium",
+        "date": "07/15/2020",
+        "description": "Belgium delays additional reopening measures as cases increase in the country."
+    },
+    {
+        "country": "United States",
+        "date": "07/15/2020",
+        "description": "Walmart, the world's largest retailer, requires all shoppers to wear face-masks in all 5,000 of its U.S. stores."
+    },
+    {
+        "country": "United States",
+        "date": "07/16/2020",
+        "description": "Georgia's governor issues an executive order rescinding mask mandates made by local governments across the state."
+    },
+    {
+        "country": "Italy,Serbia,Kosovo,Montenegro",
+        "date": "07/16/2020",
+        "description": "Italy announces bans on entry for people coming from Serbia, Kosovo, and Montenegro."
+    },
+    {
+        "country": "India",
+        "date": "07/16/2020",
+        "description": "India approaches one million coronavirus cases as numbers rise in rural areas of the country."
+    },
+    {
+        "country": "Japan",
+        "date": "07/16/2020",
+        "description": "Tokyo records its highest single-day increase in cases in the capital city."
+    },
+    {
+        "country": "Russia,United Kingdom",
+        "date": "07/17/2020",
+        "description": "Russia is accused of stealing COVID-19 vaccine research from the United Kingdom."
+    },
+    {
+        "country": "Global",
+        "date": "07/17/2020",
+        "description": "A record number of cases, 237,743, is reported to the World Health Organization."
+    },
+    {
+        "country": "India",
+        "date": "07/17/2020",
+        "description": "India becomes the third country to pass one million COVID-19 cases."
+    },
+    {
+        "country": "Global",
+        "date": "07/18/2020",
+        "description": "A new record number of cases, 259,848 is reported to the World Health Organization."
+    },
+    {
+        "country": "United States",
+        "date": "07/18/2020",
+        "description": "The FDA issues its first emergency use authorization for COVID-19 pool testing. "
+    },
+    {
+        "country": "India",
+        "date": "07/19/2020",
+        "description": "India reports 38,902 new cases its highest single-day spike."
+    },
+    {
+        "country": "Global",
+        "date": "07/20/2020",
+        "description": "The European Union negotiates a $859 billion COVID-19 stimulus package."
+    },
+    {
+        "country": "United States,China",
+        "date": "07/21/2020",
+        "description": "The United States accuses China of hacking COVID-19 vaccine research trials."
+    },
+    {
+        "country": "China",
+        "date": "07/21/2020",
+        "description": "China requires proof of negative COVID-19 test for all incoming passengers."
+    },
+    {
+        "country": "United States,Global",
+        "date": "07/22/2020",
+        "description": "Global coronavirus cases surpass 15 million; the United States remains the nation with the highest number of cases worldwide."
+    },
+    {
+        "country": "United States",
+        "date": "07/22/2020",
+        "description": "The United States charges two Chinese hackers accused of targeting institutions working on vaccine research in the U.S., Germany, UK, and Japan, among other nations."
+    },
+    {
+        "country": "Global",
+        "date": "07/22/2020",
+        "description": "Coronavirus cases in Africa exceed 750,000."
+    },
+    {
+        "country": "United States",
+        "date": "07/22/2020",
+        "description": "Washington, D.C. issues a new mask mandate as cases rise."
+    }   
+]

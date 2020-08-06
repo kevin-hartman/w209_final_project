@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>COVID Report Cases and Deaths by Country </title>
+
+    <link rel="stylesheet" href="./static/css/covid_line_chart.css" />
+  </head>
+  <body>
+    <div class="chart">
+      <h1>COVID Report Cases and Deaths by Country</h1>
+      <div class="chart-footer">
+        By Soravit Sophastienphong </a>.
+        <br />
+        <strong>Sources</strong>: <a href="https://github.com/owid/covid-19-data/tree/master/public/data">Data on COVID-19 by Our World in Data</a> and <a href="https://www.thinkglobalhealth.org/article/updated-timeline-coronavirus"> Updated of the Coronavirus by Think Global Health</a>
+      </div>
+      <div id="chart"></div>
+      <div id="brushChart"></div>
+      <div id="startDate">Start Date: 12-31-2019</div>
+      <div id="endDate">End Date: 07-26-2019</div>
+      <div id="brushTooltip">Change your desired date range by adjusting this brush! </div>
+    </div>
+    <div class="custom-select">
+      <div> Please select the metric you'd like to use: </div>
+      <select class="selector" id="metric-select">
+        <option class="metric" value="new_deaths_per_million">Daily Deaths per Million</option>
+        <option class="metric" value="new_cases_per_million">Daily Cases per Million</option>
+        <option class="metric" value="total_cases_per_million">Total Cases per Million</option>
+        <option class="metric" value="total_deaths_per_million">Total Deaths per Million</option>
+      </select>
+    </div>
+    <div id="disclaimer"> Disclaimer: Please keep in mind that different countries might report COVID numbers differently. For example, the definition of a "confirmed case" can very between countries.</div>
+
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <script src="./static/js/covid_line_chart.js"></script>
+  </body>
+</html>

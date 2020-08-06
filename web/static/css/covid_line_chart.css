@@ -1,0 +1,119 @@
+body {
+  margin: 30px;
+  font-family: sans-serif;
+}
+
+.description {
+  max-width: 800px;
+}
+table,
+td {
+  border: none;
+  padding: 5px;
+}
+
+.header {
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: gainsboro;
+}
+
+.chart-footer {
+  font-style: italic;
+  font-size: 12pt;
+  color: gray;
+}
+
+#stats {
+  position: absolute;
+  top: 500px;
+  left: 350px;
+  font-size: 18px;
+}
+
+.tooltip {
+  position: absolute;
+  font-size: 12px;
+  color: white;
+  width:  auto;
+  height: auto;
+  pointer-events: none;
+  background-color: black;
+  padding: 5px;
+  width: 300px;
+}
+
+thead {
+  background-color: gainsboro;
+  font-size: 20px;
+}
+
+#summary {
+  width: 1000px;
+}
+
+.custom-select {
+  position: absolute;
+  top: 740px;
+  left: 975px;
+  font-size: 15px;
+}
+
+.metric {
+  font-size: 20px;
+}
+
+.selector {
+  margin-top: 10px;
+}
+
+#startDate {
+  position: absolute;
+  top: 970px;
+  left: 950px;
+}
+
+#endDate {
+  position: absolute;
+  top: 995px;
+  left: 950px;
+}
+
+#brushTooltip {
+  position: absolute;
+  font-size: 16px;
+  width: 100px;
+  color: white;
+  width:  auto;
+  height: auto;
+  pointer-events: none;
+  background-color: yellowgreen;
+  padding: 5px;
+  width: 250px;
+  left: 605px;
+  top: 890px;
+  z-index: 9999;
+}
+
+#brushTooltip:before {
+  content: ' ';
+  position: absolute;
+  width: 0;
+  height: 0;
+  left: 0px;
+  top: 45px;
+  border: 10px solid;
+  border-color: yellowgreen transparent transparent yellowgreen;
+  z-index: 1;
+}
+
+#disclaimer {
+  position: absolute;
+  top: 840px;
+  left: 975px;
+  font-size: 15px;
+  color: red;
+  width: 300px;
+}

@@ -501,6 +501,6 @@ function update(err, cases, events, start, end){
 }
 
 d3.queue()
-  .defer(d3.json, "../data/data.json")
-  .defer(d3.json, "../data/covidEvents.json")
+  .defer(d3.json, "./static/data/data.json")
+  .defer(d3.json, "./static/data/covidEvents.json")
   .await(update);
