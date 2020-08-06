@@ -1,0 +1,40 @@
+body {
+  margin: 30px;
+  font-family: sans-serif;
+}
+
+.description {
+  max-width: 800px;
+  font-size: 12pt;
+  color: #616a6b;
+}
+
+.chart-footer {
+  font-style: none;
+  font-size: 10pt;
+  color: #aaa;
+}
+
+.first_paragraph {
+  max-width: 800px;
+  font-size: 12pt;
+  color: #1c2833;
+}
+
+.second_paragraph {
+  max-width: 800px;
+  font-size: 12pt;
+  color: #1c2833;
+}
+
+.third_paragraph {
+  max-width: 800px;
+  font-size: 12pt;
+  color: #1c2833;
+}
+
+.fourth_paragraph {
+  max-width: 800px;
+  font-size: 12pt;
+  color: #1c2833;
+}
