@@ -1,0 +1,184 @@
+$top-offset: 3rem;
+$bp: 5rem;
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  min-height: 1280px;
+  color: #3b3b3b;
+  font-size: 24px;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+a {
+  margin: 0;
+  font-weight: 400;
+}
+
+a,
+a:visited,
+a:hover {
+  color: teal;
+  text-decoration: none;
+  border-bottom: 2px solid currentColor;
+}
+
+nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: baseline;
+  -ms-flex-align: baseline;
+  align-items: baseline;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  background: #f3f3f3;
+  padding: 1rem;
+  padding-right: 5rem;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+#intro {
+  max-width: 40rem;
+  margin: 1rem auto;
+  text-align: center;
+}
+
+.intro__hed {
+  font-size: 2em;
+  margin: 2rem auto 0.5rem auto;
+}
+
+.intro__dek {
+  color: #8a8a8a;
+}
+
+#intro {
+  margin-bottom: 20px;
+}
+
+#outro {
+    text-align: center;
+    height: 100vh;
+}
+
+#scrolly {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  /*background-color: #f3f3f3;*/
+  padding: 1rem;
+}
+
+#scrolly > * {
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+
+article {
+  position: relative;
+  /* top right bottom left */
+  padding: 0 1rem 0 0;
+  max-width: 30rem;
+  margin: 0 auto;
+}
+
+@import url("https://fonts.iu.edu/style.css?family=BentonSans:regular,bold|BentonSansCond:regular|GeorgiaPro:regular")
+  article p {
+  font-family: "GeorgiaPro";
+  font-size: 1.5vw;
+  line-height: 1.8vh;
+}
+
+figure {
+  position: -webkit-sticky;
+  position: sticky;
+  width: 100%;
+  margin: 0;
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  /* background-color: #8a8a8a; */
+  z-index: 0;
+}
+
+figure p {
+  text-align: center;
+  padding: 1rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -moz-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  font-size: 8rem;
+  font-weight: 900;
+  /* color: #fff; */
+}
+
+.step {
+  margin: 0 auto 2rem auto;
+  /*background-color: #3b3b3b;*/
+  /*color: #fff;*/
+  opacity: 0;
+}
+
+.step:last-child {
+  margin-bottom: 0;
+
+}
+
+.step.is-active {
+  background-color: #D8C3A5; /*#EFE2BA;*/ /*#E3E2DF;*/ /*#C2B9B0;*/ /*goldenrod;*/
+  /*color: #3b3b3b;*/
+  opacity: 0;
+}
+
+.step p {
+  text-align: center;
+  padding: 1rem;
+  font-size: 1.5vw;
+}
+
+@import url("https://fonts.iu.edu/style.css?family=BentonSans:regular,bold|BentonSansCond:regular|GeorgiaPro:regular")
+body {
+  font-family: BookmanSans;
+  padding: 2em 2em 2em 2em; /*(top, right, bottom, and left). */
+}
+
+.outside-box {
+  height: 100%
+  width: 100%;
+  vertical-align: center;
+  position: relative;
+  text-align: center;
+}
+
+.screenshot {
+  border: none;
+  overflow: hidden;
+}
+
+.filter {
+  border: none;
+  overflow: hidden;
+}
