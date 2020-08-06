@@ -98,14 +98,14 @@ article {
   position: relative;
   /* top right bottom left */
   padding: 0 1rem 0 0;
-  max-width: 30rem;
+  /*max-width: 30rem;*/
   margin: 0 auto;
 }
 
 @import url("https://fonts.iu.edu/style.css?family=BentonSans:regular,bold|BentonSansCond:regular|GeorgiaPro:regular")
   article p {
   font-family: "GeorgiaPro";
-  font-size: 1.5vw;
+  font-size: 1.5vh;
   line-height: 1.8vh;
 }
 
@@ -156,7 +156,7 @@ figure p {
 .step p {
   text-align: center;
   padding: 1rem;
-  font-size: 1.5vw;
+  font-size: 1.5vh;
 }
 
 @import url("https://fonts.iu.edu/style.css?family=BentonSans:regular,bold|BentonSansCond:regular|GeorgiaPro:regular")
