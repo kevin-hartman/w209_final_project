@@ -1,22 +1,25 @@
 # Examining Causes of Death
 
-In this data journalistic-style report we present Underlying Causes of Death in the following ways:
+Our project explores various causes of death through multiple different perspectives, culminating in four interactive visualizations:
 
 * How do people die?
-  * An interactive exploration on the main causes of death, where they happen, and when.
+  * An interactive exploration of the main causes of death, where they happen, and when.
   * By Kevin Hartman
 
-* How are COVID-19 case/death trends related to significant events around the world?
-  * A comparison of trends and events across countries in 2020.
+* How has the world been affected by and responded to COVID-19?
+  * Examining COVID-19 case/death trends around the world through an event-focused lens.
   * By Soravit Sophastienphong
 
 * Does behavior affect causes of death?
-  * A study on how behavioral factors impact the death rate across different demographics.
+  * A study on how behavioral factors impact death rates across different demographics.
   * By Andrew Dively
 
 * Does weathier mean healthier?
-  * An exploration of leading causes of death and socio-economic indicators. 
+  * An exploration of leading causes of death and socio-economic indicators.
   * By Marcial Nava
 
+## Setup
+* Navigate to the directory containing `index.html` and run `python -m SimpleHTTPServer 8000` to start the server
 
-  
+## Course Information
+* W209 Data Visualization at UC Berkeley (https://www.ischool.berkeley.edu/courses/datasci/209)
