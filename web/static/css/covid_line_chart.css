@@ -1,6 +1,11 @@
 body {
-  margin: 30px;
   font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin-left: 10px;
 }
 
 .description {
@@ -24,6 +29,7 @@ tr:nth-child(even) {
   font-style: italic;
   font-size: 12pt;
   color: gray;
+  margin-left: 10px;
 }
 
 #stats {
@@ -56,8 +62,8 @@ thead {
 
 .custom-select {
   position: absolute;
-  top: 740px;
-  left: 975px;
+  top: 780px;
+  left: 950px;
   font-size: 15px;
 }
 
@@ -112,8 +118,33 @@ thead {
 #disclaimer {
   position: absolute;
   top: 840px;
-  left: 975px;
+  left: 950px;
   font-size: 15px;
   color: red;
   width: 300px;
+}
+
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: sans-serif;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav .icon {
+  display: none;
 }
