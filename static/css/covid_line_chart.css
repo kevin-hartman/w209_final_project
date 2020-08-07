@@ -148,3 +148,13 @@ thead {
 .topnav .icon {
   display: none;
 }
+
+#loading {
+  position: absolute;
+  left:500px;
+  top: 180px;
+  background-color: cadetblue;
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+}

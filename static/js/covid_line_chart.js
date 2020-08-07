@@ -1,3 +1,7 @@
+window.setTimeout(() => {
+  document.getElementById("loading").style.display = "none";
+}, 10000);
+
 // Main Chart
 const width = 1000,
   height = 800,
