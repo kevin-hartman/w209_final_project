@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>What people die from</title>
+
+    <meta name="description" content="Underlying causes of death over time" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+      integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="./static/css/style.css" />
+
+  </head>
+
+  <body>
+
+    <main>
+
+      <section id="intro" style="width: 100vw; height: 100vh" >
+          <div style="position: relative; top: 0px;">
+            <div>
+              <h1 class="intro__hed">How do people die?</h1>
+              <p class="intro__dek">
+                In the United States 50 million people died between 1999-2018.<br /><br />
+                What did they die from?<br />
+                <br />
+              </p>
+            </div>
+            <div class="screenshot" style="height: 50vh;" align="center">
+              <img width="100%" src="./static/image/leading_causes_1999_2018.png" />
+            </div>
+          </div>
+      </section>
+      <div style="position: absolute; width: 100%; bottom: 0px;">
+        <div id="arrow" style="opacity: 0;">
+        <p 
+          class="intro_dek"
+          style="
+            bottom: 0px;
+            font-family: 'Arial Unicode MS';
+            font-size: 80px;
+            vertical-align: bottom;
+            text-align: center;
+          "
+          align="center"
+        >&#65516;
+        </p>
+        <p           class="intro_dek"
+          style="
+            bottom: 0px;
+            font-family: 'Arial Unicode MS';
+            vertical-align: bottom;
+            text-align: center;">
+          [scroll]</p>      </div>
+      </div>
+
+      <section id="scrolly">
+        <article>
+          <div class="step" data-step="1">
+            <p>1<br/>
+              This heat map represents death rates across geographies that span multiple years.<br/><br/>
+               <img
+              width="100%"
+              src="./static/image/hexmap_us.png"
+            />
+            </p>
+          </div>
+          <div class="step" data-step="2">
+            <p>2<br/>
+              The bands in red represent higher death rates, while the bands in blue
+              are lower.<br/><br/>
+               <img
+              width="100%"
+              src="./static/image/heatmap_legend.png"
+            />
+            </p>
+          </div>
+          <div class="step" data-step="3">
+            <p>3<br/>
+              Patterns emerge for regions with similar characteristics.
+            </p>
+          </div>
+          <div class="step" data-step="4">
+            <p>4<br/>
+              For example, examine the death rates as you move from the Midwest toward Appalachia and down to the Gulf.<br/><br/>
+               <img
+              width="100%"
+              src="./static/image/hexmap_app_mid.png"
+            />
+            </p>
+          </div>
+          <div class="step" data-step="5">
+            <p>5<br/>
+              By adding a filter to the heatmap we can better spot trends for causes of death across regions.
+            </p>
+          </div>   
+          <div class="step" data-step="6">
+            <p>6<br/>
+              With the filter in place we can click on any of the Underlying Causes to get it's heatmap.<br/><br/>Clicking any empty area will clear the selection.<br/><br/>Want to try this yourself?<br/> Scroll down to begin. 
+            </p>
+          </div>
+          <div class="step" data-step="7">
+            <p>7<br/>
+              The chart to the right is live.
+              Try clicking around.<br><br/>
+              What trends can you spot? Do you know if deaths from Influenza are going up or down?<br/><br/>
+              What regions have more deaths from Respiratory Disease? Heart Disease?
+              <br/><br/>As you make selections notice the upper scale of the legend. A red area for Hypertension is not the same as a red area for Cancer.
+            </p>
+          </div>
+          <div class="step" data-step="8">
+            <p>8<br/>
+                Thanks for trying that out.<br/><br/> A high level view of deaths and their causes can provide insights into trends so we know where to focus resources and make policy decisions. But to know where to adopt policy we need to drill in a little further.
+
+            </p>
+          </div>           
+          <div class="step" data-step="9">
+            <p>9<br/>
+                           A weekly view of the data that focuses solely the top causes can help us accomplish that task a little better.<br/><br/>
+                            This heatmap is not only more granular, it contains more recent data. It displays death rates per week from 2014 until May of 2020.
+            </p>
+          </div>                                   
+          <div class="step" data-step="10">
+            <p>10<br/>
+             Combined with a filter we can focus on specific Underlying Causes. 
+              Only, we're using a toggle this time. You can select one, two, or all of them.<br/></br>
+              Oh, and there's one more thing.
+            </p>
+          </div>    
+          <div class="step" data-step="11">
+            <p>11<br/>
+              You can drill in.<br/><br/>Click on a point, select-drag an area, or pick an individual state. The distribution of Underlying Causes will display for that selection.<br><br/>The totals will match the table too if you select all regions.<br/><br/>Ready to try it out?<br/>Scroll down to begin. 
+            </p>
+          </div>    
+          <div class="step" data-step="12">
+            <p>12<br/>
+              Go for it. It's live.<br/><br/>
+              What patterns to you notice this time? What types of death have seasonality to them? Where do they occur?
+
+            </p></div>
+                      <div class="step" data-step="13"><p>13<br/>
+              Notice the legend when all causes but COVID-19 are toggled.<br/><br/>
+               <img
+              width="60%"
+              src="./static/image/legend_non_covid.png"
+            /><br/><br/>
+            What happens to the legend when you add COVID-19 to the mix? What did you notice about the heatmap?              
+          </div>
+          <div class="step" data-step="14">
+            <p>14<br/>
+              COVID-19 is an interesting case. It's average weekly deaths didn't start until end of February.<br/><br/>It's death count contribution also came from concentrated areas. See if you can reproduce the distribution below by finding where this occurred in the Mid-Atlantic. Can you find other hot spots?<br/><br/><img
+              width="70%"
+              src="./static/image/covid_mid_atlantic.png"
+            />
+            </p>
+          </div> 
+          <div class="step" data-step="15">
+            <p>15<br/>
+              The heatmap we've been using helps us quickly identify patterns across time and geographies. The image to the right relies on a similar approach, but renders the "heat" onto a tile map for a specific time frame. This particular time frame is between January 2020 to May 2020.<br/><br/>We'll stay in this time range and this map's heat so we can focus on recent events.
+            </p>
+          </div> 
+          <div class="step" data-step="16">
+            <p>16<br/>
+              This should look familiar.<br/><br/>Select one or more causes of death and any number of states (up to 5) to see what that state's weekly death rate looks like on the line graph.<br/><br/>The death rate is in terms of
+               100K of population.<br/><br/>A second line projects the expected death rate based on seasonal averages.<br/><br/>Where do these lines diverge?
+            </p>
+          </div>
+          <div class="step" data-step="17">
+            <p>17<br/>
+              What other diseases, besides COVID-19, rise at the end of the line graph? As a reminder, an Underlying Cause of Death is the primary cause of death irrespective of the presense of COVID-19. Likewise, the COVID-19 deaths here are coded only as the primary cause.<br/><br/>With this knowledge, what conclusions can you draw about co-morbidities? Are there correlations between increased deaths from other categories with the rise of COVID-19?
+            </p>
+          </div>           
+          <div class="step" data-step="18">
+            <p>18<br/>
+              We hope you enjoyed this data exploration on a somber topic.<br/><br/>Thank you for browsing, comparing, locating and discovering with us.<br/><br/>
+              <div style="font-style: italic;text-align:left;font-size: 1vw;margin:1vw 1vw">
+              <br/><br/>
+              <strong>Sources</strong><br/> National Center for Health Statistics:<br/>
+              <a style="font-size: .9vw" href="https://wonder.cdc.gov/ucd-icd10.html"
+                >Underlying Cause of Death 1999-2018</a><br/>
+              <a style="font-size: .9vw" href="https://data.cdc.gov/NCHS/Weekly-Counts-of-Deaths-by-State-and-Select-Causes/3yf8-kanr"
+                >Weekly Counts of Deaths by State and Select Causes, 2014-2018</a><br/>
+              <a style="font-size: .9vw" href="https://data.cdc.gov/NCHS/Weekly-Counts-of-Deaths-by-State-and-Select-Causes/muzy-jte6"
+                >Weekly Counts of Deaths by State and Select Causes, 2019-2020</a> 
+              <br/>
+              <br/>
+              <br/>
+              <br/>
+              Data visualization by<br/>
+              <a href="https://about.me/kevinhartman">Kevin Hartman</a>
+                 </div>              
+            </p>
+        </div>
+        </article>
+        <figure>
+          <p id="heatmap1" style="opacity: 0;">
+            <img width="800px" src="./static/image/annual_deaths_all_us.png" />
+          </p>
+          <p id="heatmap2" style="opacity: 0;">
+            <img
+              width="800px"
+              src="./static/image/annual_deaths_midwest_appalachia.png"
+            />
+          </p>
+          <p id="filter" style="opacity:0;">
+              <img width= "90%" src="./static/image/leading_causes_1999_2018_sorted.png" />
+          </p>
+           <p id="tableau1_demo_annotated" style="opacity: 0; ">
+            <img
+              src="./static/image/tableau_1_demo_annotated.gif"
+            />
+          </p>          
+          <p 
+              class="tableauPlaceholder"
+              id="viz1596390609144"
+              style="opacity: 0;"
+            >
+              <noscript
+                ><a href="#"
+                  ><img
+                    alt=" "
+                    src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;An&#47;AnnualDeathsbyCause1999-2018&#47;CauseofDeathMulti-YearDashboard&#47;1_rss.png"
+                    style="border: none;" /></a></noscript
+              ><object class="tableauViz" style="width:1032px;height:859px;"
+                ><param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+                <param name="embed_code_version" value="3" />
+                <param name="site_root" value="" /><param
+                  name="name"
+                  value="AnnualDeathsbyCause1999-2018&#47;CauseofDeathMulti-YearDashboard" /><param
+                  name="tabs"
+                  value="no" /><param name="toolbar" value="no" /><param
+                  name="static_image"
+                  value="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;An&#47;AnnualDeathsbyCause1999-2018&#47;CauseofDeathMulti-YearDashboard&#47;1.png" />
+                <param name="animate_transition" value="yes" /><param
+                  name="display_static_image"
+                  value="yes" /><param name="display_spinner" value="yes" /><param
+                  name="display_overlay"
+                  value="yes" /><param name="display_count" value="yes" /><param
+                  name="language"
+                  value="en" /><param name="filter" value="publish=yes"
+              /></object>
+          </p>
+          <p id="heatmap3" style="opacity: 0;">
+            <img width="800px" src="./static/image/weekly_deaths.png" />
+          </p>          
+           <p id="tableau2_toggle_demo" style="opacity: 0;">
+            <img
+              width="1000px"
+              src="./static/image/tableau_2_toggle_demo.gif"
+            />
+          </p>    
+           <p id="tableau2_select_demo" style="opacity: 0; ">
+            <img
+              width="1000px"
+              src="./static/image/tableau_2_select_demo.gif"
+            />
+          </p>    
+          <p 
+              class="tableauPlaceholder"
+              id="viz1596437702819"
+              style="opacity: 0"
+            >
+              <noscript
+                ><a href="#"
+                  ><img
+                    alt=" "
+                    src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Le&#47;LeadingCausesofDeathbyWeek&#47;CauseofDeathWeeklyDashboard&#47;1_rss.png"
+                    style="border: none;" /></a></noscript
+              ><object class="tableauViz" style="width:1032px;height:859px;"
+                ><param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+                <param name="embed_code_version" value="3" />
+                <param name="site_root" value="" /><param
+                  name="name"
+                  value="LeadingCausesofDeathbyWeek&#47;CauseofDeathWeeklyDashboard" /><param
+                  name="tabs"
+                  value="no" /><param name="toolbar" value="no" /><param
+                  name="static_image"
+                  value="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Le&#47;LeadingCausesofDeathbyWeek&#47;CauseofDeathWeeklyDashboard&#47;1.png" />
+                <param name="animate_transition" value="yes" /><param
+                  name="display_static_image"
+                  value="yes" /><param name="display_spinner" value="yes" /><param
+                  name="display_overlay"
+                  value="yes" /><param name="display_count" value="yes" /><param
+                  name="language"
+                  value="en" /><param name="filter" value="publish=yes"
+              /></object>
+          </p>
+          <p id="heatmap4" style="opacity: 0;">
+            <img width="800px" src="./static/image/states_heat_2020.png" />
+          </p>
+          <p class='tableauPlaceholder' id='viz1596584113569' style='opacity: 0'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ob&#47;ObservedvsExpectedDeathsforSelectCauses&#47;ObservedvsExpectedDeathsforSelectCauses&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style="width:1032px;height:859px;"><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ObservedvsExpectedDeathsforSelectCauses&#47;ObservedvsExpectedDeathsforSelectCauses' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ob&#47;ObservedvsExpectedDeathsforSelectCauses&#47;ObservedvsExpectedDeathsforSelectCauses&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></p>            
+        </figure>
+      </section>
+
+
+      <section id="outro">
+        <div style="position: relative; top: 15vh;">
+          <p class="intro__dek">
+            <br />
+          </p>
+          <div style="position: relative; top: 15vh;">
+          <h1 class="intro__hed">How do people die?</h1>
+          <p class="intro__dek">
+            A data vizualization.
+          </p></div>
+        </div>
+      </section>
+
+    </main>
+
+
+    <script type="text/javascript">
+      var divElement = document.getElementById("viz1596390609144");
+      var vizElement = divElement.getElementsByTagName("object")[0];
+     // vizElement.style.width = "100%";
+     // vizElement.style.height = "100%";
+      var scriptElement = document.createElement("script");
+      scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
+      vizElement.parentNode.insertBefore(scriptElement, vizElement);
+    </script>
+
+
+    <script type="text/javascript">
+      var divElement = document.getElementById("viz1596437702819");
+      var vizElement = divElement.getElementsByTagName("object")[0];
+      // vizElement.style.width = "100%";
+      // vizElement.style.height = "100%";
+      var scriptElement = document.createElement("script");
+      scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
+      vizElement.parentNode.insertBefore(scriptElement, vizElement);
+    </script>
+
+    <script type="text/javascript">
+      var divElement = document.getElementById("viz1596584113569");
+      var vizElement = divElement.getElementsByTagName("object")[0];
+      // vizElement.style.width = "100%";
+      // vizElement.style.height = "100%";
+      var scriptElement = document.createElement("script");
+      scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
+      vizElement.parentNode.insertBefore(scriptElement, vizElement);
+    </script>    
+
+
+    <!-- <div class='debug'></div> -->
+
+    <script src="https://unpkg.com/d3@5.9.1/dist/d3.min.js"></script>
+    <script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/stickyfill/2.1.0/stickyfill.min.js"></script>
+    <script src="https://unpkg.com/scrollama"></script>
+
+    <!-- Bootstrap js, Popper.js, and jQuery -->
+    <script
+      src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+      integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+      integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-169385910-3"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "UA-169385910-3");
+    </script>
+
+    <script src="./static/js/main.js"></script>
+  </body>
+</html>
