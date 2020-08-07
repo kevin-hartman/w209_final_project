@@ -105,7 +105,7 @@ article {
 @import url("https://fonts.iu.edu/style.css?family=BentonSans:regular,bold|BentonSansCond:regular|GeorgiaPro:regular")
   article p {
   font-family: "GeorgiaPro";
-  font-size: 1.5vh;
+  font-size: 1.2vmax;
   line-height: 1.8vh;
 }
 
@@ -156,7 +156,7 @@ figure p {
 .step p {
   text-align: center;
   padding: 1rem;
-  font-size: 1.5vh;
+  font-size: 1.2vmax;
 }
 
 @import url("https://fonts.iu.edu/style.css?family=BentonSans:regular,bold|BentonSansCond:regular|GeorgiaPro:regular")
